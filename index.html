@@ -1,0 +1,53 @@
+<html charset="utf-8">
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script src="js/map.js"></script>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/map.css">
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+	<div id="map">
+	<h1 class="title">Mapa Interativo ICEx</h1>
+	<div class="options">  
+		<text><strong>Pesquisar (<i>disciplina, código, sala, ...</i>):</strong></text><br />
+		<label for="tags"></label>
+  		<input id="tags">
+  		<p />
+		<text><strong>Visualizar andar:</strong></text><br />
+	    <input id="andar1" type="radio" class="radio" name="floor" value="andar1" checked onclick="showFloor(1)" />  
+	    <label for="andar1" class="radio">1º Andar</label>
+	    <br />
+
+	    <input id="andar2" type="radio" class="radio" name="floor" value="andar2"  onclick="showFloor(2)" />  
+	    <label for="andar2" class="radio">2º Andar</label>
+	    <br />
+
+	    <input id="andar3" type="radio" class="radio" name="floor" value="andar3"  onclick="showFloor(3)" />  
+	    <label for="andar3" class="radio">3º Andar</label>
+	    <br />
+
+	    <input id="andar4" type="radio" class="radio" name="floor" value="andar4"  onclick="showFloor(4)" />  
+	    <label for="andar4" class="radio">4º Andar</label>
+
+	    <p />
+		<text><strong>Colorir:</strong></text><br />
+	    <input id="departamentos" type="radio" class="radio" name="color" value="departamentos" checked onclick="colorByDep()" />  
+	    <label for="departamentos" class="radio">Departamentos</label>
+	    <br />
+
+	    <input id="ocupacao" type="radio" class="radio" name="color" value="ocupacao" onclick="colorByOcupation()" />
+	    <label for="ocupacao" class="radio">Salas vazias/ocupadas</label>  
+	    <br />
+	</div> 
+</div>
+<div class="mapContainer">
+	<object id="mapaIcex" data="../svg/icex.svg" type="image/svg+xml"></object>
+</div>
+<div id="source">Fonte: Dados obtidos em planilhas e docuentos públicos do Instituto de Ciências Exatas (ICEx) UFMG</div>
+</div>
+</body>
+</html>

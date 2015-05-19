@@ -1,0 +1,78 @@
+	h1{
+		font-family: 'Helvetica';
+		font-weight: lighter;
+		font-size: 40px;
+	}
+	h1.title{
+		margin-left: 10px;
+	}
+	body{
+		background: url("../texture/texture-noise.png");
+		/*background: #F5E1BD;*/
+	}
+	text,label{
+		font-family: 'Helvetica';
+		font-weight: lighter;
+	}
+	div.options{
+		display: inline-block;
+		float: left;
+		margin:0 10px 0 5px;
+	}
+	input{
+		margin:10px 0 10px 15px;
+	}
+	label.radio{
+		background-color:#9C3;
+		padding: 5px 12px;
+
+	}
+	input[type=radio]{
+		display:none;
+		margin: 40px 20px;
+	}
+	input[type=radio]:checked + label{
+		background-color:#C33;
+	}
+	.tooltip {
+		font-family: 'Helvetica';
+		font-weight: lighter;
+	    pointer-events:none; /*let mouse events pass through*/
+	    opacity:0;
+	    transition: opacity 0.3s;
+	}
+	div.tooltip {
+	    /*background: #cccccc;
+	    border:solid gray;
+	    */
+	    width: 330px;
+		display: inline-block;
+		position: absolute;
+		float: left;
+		margin: 180px 0 0 0;
+	    text-align:center;
+	}
+
+	div.tooltip td{
+		text-align: center;
+	}
+	span#zone_name{
+		font-size:30px;
+		font-weight: normal;
+		margin:0 0 10px 0;
+	}
+	span#total_wards,span#total_dwcc,span#min,span#avg,span#max,span#t_min,span#t_avg,span#t_max{
+		font-size:25px;
+		font-weight: normal;
+	}
+	div#source{
+		font-size: 15px;
+		font-style: oblique;
+		float: left;
+	}
+	div.mapContainer{
+		width:	800px;
+		height: 600px;
+		float: left;
+	}
+	

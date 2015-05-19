@@ -1,0 +1,5150 @@
+[
+    {
+        "DISCIPLINA": "PROGRAMACAO DE COMPUTADORES",
+        "CODIGO": "DCC001",
+        "TURMA": "TA1",
+        "SALA": "2008",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "PROGRAMACAO DE COMPUTADORES",
+        "CODIGO": "DCC001",
+        "TURMA": "TA2",
+        "SALA": "2014",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "PROGRAMACAO DE COMPUTADORES",
+        "CODIGO": "DCC001",
+        "TURMA": "TB1/TB2",
+        "SALA": "AUD. 1",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "PROGRAMACAO DE COMPUTADORES",
+        "CODIGO": "DCC001",
+        "TURMA": "TE1",
+        "SALA": "1017",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "PROGRAMACAO DE COMPUTADORES",
+        "CODIGO": "DCC001",
+        "TURMA": "TE2",
+        "SALA": "2055",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "PROGRAMACAO DE COMPUTADORES",
+        "CODIGO": "DCC001",
+        "TURMA": "TM/TM1/",
+        "SALA": "CAD1. M2 AUD.2A",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "PROGRAMACAO DE COMPUTADORES",
+        "CODIGO": "DCC001",
+        "TURMA": "TN/TN1/",
+        "SALA": "CAD1. AUD.2A",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS I",
+        "CODIGO": "DCC003",
+        "TURMA": "TB1",
+        "SALA": "2013",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS I",
+        "CODIGO": "DCC003",
+        "TURMA": "TB2",
+        "SALA": "2008",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS I",
+        "CODIGO": "DCC003",
+        "TURMA": "TE",
+        "SALA": "2015",
+        "DIA1": "6a",
+        "HORARIO1": "18:30 - 22:00"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS I",
+        "CODIGO": "DCC003",
+        "TURMA": "TF/TF1/T",
+        "SALA": "AUD. 1",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS I",
+        "CODIGO": "DCC003",
+        "TURMA": "TF1",
+        "SALA": "2055",
+        "DIA1": "5a",
+        "HORARIO1": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS I",
+        "CODIGO": "DCC003",
+        "TURMA": "TF1/TF2",
+        "SALA": "2054",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS I",
+        "CODIGO": "DCC003",
+        "TURMA": "TM1",
+        "SALA": "AUD. 1",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS I",
+        "CODIGO": "DCC003",
+        "TURMA": "TM2",
+        "SALA": "2013",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS I",
+        "CODIGO": "DCC003",
+        "TURMA": "TW/TW1/",
+        "SALA": "CAD1 - W2 313",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS II",
+        "CODIGO": "DCC004",
+        "TURMA": "TA",
+        "SALA": "2008",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS II",
+        "CODIGO": "DCC004",
+        "TURMA": "TF",
+        "SALA": "CAD1 - 312",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS II",
+        "CODIGO": "DCC004",
+        "TURMA": "TM",
+        "SALA": "CAD1. AUD.2A",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS II",
+        "CODIGO": "DCC004",
+        "TURMA": "TN",
+        "SALA": "CAD1 - 313",
+        "DIA1": "3a",
+        "HORARIO1": "16:40 - 18:20",
+        "DIA2": "5a",
+        "HORARIO2": "16:40 - 18:20"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS II",
+        "CODIGO": "DCC004",
+        "TURMA": "TW",
+        "SALA": "CAD1. AUD.2A",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS III",
+        "CODIGO": "DCC005",
+        "TURMA": "TD",
+        "SALA": "2054",
+        "DIA1": "3a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "5a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS E ESTRUTURAS DE DADOS III",
+        "CODIGO": "DCC005",
+        "TURMA": "TE",
+        "SALA": "AUD. 1",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ORGANIZACAO DE COMPUTADORES I",
+        "CODIGO": "DCC006",
+        "TURMA": "TD",
+        "SALA": "2015",
+        "DIA1": "2a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "4a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "ORGANIZACAO DE COMPUTADORES I",
+        "CODIGO": "DCC006",
+        "TURMA": "TZ",
+        "SALA": "1024",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ORGANIZACAO DE COMPUTADORES II",
+        "CODIGO": "DCC007",
+        "TURMA": "TM2",
+        "SALA": "2008",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "SOFTWARE BASICO",
+        "CODIGO": "DCC008",
+        "TURMA": "TM",
+        "SALA": "1024",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "COMPILADORES",
+        "CODIGO": "DCC010",
+        "TURMA": "TM",
+        "SALA": "2013",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A BANCO DE DADOS",
+        "CODIGO": "DCC011",
+        "TURMA": "TD",
+        "SALA": "2009",
+        "DIA1": "2a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "4a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A BANCO DE DADOS",
+        "CODIGO": "DCC011",
+        "TURMA": "TZ",
+        "SALA": "2054",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A ARQUITETURA DE COMPUTADORES",
+        "CODIGO": "DCC017",
+        "TURMA": "TD",
+        "SALA": "2015",
+        "DIA1": "2a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "4a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "REDES DE COMPUTADORES",
+        "CODIGO": "DCC023",
+        "TURMA": "TB",
+        "SALA": "2008",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "REDES DE COMPUTADORES",
+        "CODIGO": "DCC023",
+        "TURMA": "TE",
+        "SALA": "2008",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "REDES DE COMPUTADORES",
+        "CODIGO": "DCC023",
+        "TURMA": "TN",
+        "SALA": "2008",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "REDES DE COMPUTADORES",
+        "CODIGO": "DCC023",
+        "TURMA": "TW",
+        "SALA": "2015",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "LINGUAGENS DE PROGRAMACAO",
+        "CODIGO": "DCC024",
+        "TURMA": "TA",
+        "SALA": "2013",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "LINGUAGENS DE PROGRAMACAO",
+        "CODIGO": "DCC024",
+        "TURMA": "TW",
+        "SALA": "2014",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "COMPUTACAO GRAFICA",
+        "CODIGO": "DCC027",
+        "TURMA": "TC",
+        "SALA": "2016",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "PROCESSAMENTOS DIGITAL DE IMAGENS",
+        "CODIGO": "DCC029",
+        "TURMA": "TD",
+        "SALA": "2015",
+        "DIA1": "3a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "5a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "TCC: ANALISE E OTIMIZACAO DE CODIGO",
+        "CODIGO": "DCC030",
+        "TURMA": "TA",
+        "SALA": "2015",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TCC: APRENDIZADO DE MAQUINA",
+        "CODIGO": "DCC030",
+        "TURMA": "TB",
+        "SALA": "2013",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TCC: ARQUITETURA DE SOFTWARE",
+        "CODIGO": "DCC030",
+        "TURMA": "TC",
+        "SALA": "2016",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TCC: BANCOS DE DADOS AVANCADOS",
+        "CODIGO": "DCC030",
+        "TURMA": "TD2",
+        "SALA": "2016",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TCC: BANCOS DE DADOS GEOGRAFICOS",
+        "CODIGO": "DCC030",
+        "TURMA": "TE2",
+        "SALA": "2014",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TCC: FUNDAMENTOS ESTATISTICOS PARA CIENCIAS DOS DADOS",
+        "CODIGO": "DCC030",
+        "TURMA": "TG2",
+        "SALA": "2009",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TCC: INTERNET DAS COISAS",
+        "CODIGO": "DCC030",
+        "TURMA": "TH2",
+        "SALA": "2015",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TCC: INTRODUCAO A COMPUTACAO VISUAL",
+        "CODIGO": "DCC030",
+        "TURMA": "TI",
+        "SALA": "2014",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "TCC: MEDICAO E QUALIDADE DE SOFTWARE",
+        "CODIGO": "DCC030",
+        "TURMA": "TJ2",
+        "SALA": "2015",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TCC: NANOTECNOLOGIA COMPUTACIONAL",
+        "CODIGO": "DCC030",
+        "TURMA": "TK2",
+        "SALA": "2015",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TCC: PROGRAMACAO FUNCIONAL",
+        "CODIGO": "DCC030",
+        "TURMA": "TL2",
+        "SALA": "2011 - Lab. DCC",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TCC: SOLUCAO DE PROBLEMAS COMPUTACIONAIS",
+        "CODIGO": "DCC030",
+        "TURMA": "TM2",
+        "SALA": "1010 LAB DCC",
+        "DIA1": "6a",
+        "HORARIO1": "09:25 - 12:50"
+    },
+    {
+        "DISCIPLINA": "TCC: VERIFICACAO AUTOMATICA",
+        "CODIGO": "DCC030",
+        "TURMA": "TN2",
+        "SALA": "2016",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TCC: VISUALIZACAO DE DADOS",
+        "CODIGO": "DCC030",
+        "TURMA": "TO2",
+        "SALA": "2013",
+        "DIA1": "2a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "4a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "TCC: PROTOCOLOS CRIPTOGRAFICOS",
+        "CODIGO": "DCC030",
+        "TURMA": "TQ2",
+        "SALA": "2008",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TCC: RECUPERACAO DA INFORMACAO - MAQUINAS DE BUSCA NA WEB",
+        "CODIGO": "DCC030",
+        "TURMA": "TR2",
+        "SALA": "2016",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TCC: VIRTUALIZACAO E COMPUTACAO EM NUVEM",
+        "CODIGO": "DCC030",
+        "TURMA": "TS2",
+        "SALA": "2014",
+        "DIA1": "2a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "4a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "ANALISE NUMERICA",
+        "CODIGO": "DCC033",
+        "TURMA": "TB",
+        "SALA": "CAD1. AUD.2A",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ANALISE NUMERICA",
+        "CODIGO": "DCC033",
+        "TURMA": "TE",
+        "SALA": "AUD. 4 FIS",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "ANALISE NUMERICA",
+        "CODIGO": "DCC033",
+        "TURMA": "TM",
+        "SALA": "AUD. 2",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ANALISE NUMERICA",
+        "CODIGO": "DCC033",
+        "TURMA": "TN",
+        "SALA": "2054",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO NUMERICO",
+        "CODIGO": "DCC034",
+        "TURMA": "TA",
+        "SALA": "2013",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "CALCULO NUMERICO",
+        "CODIGO": "DCC034",
+        "TURMA": "TB",
+        "SALA": "AUD. 1",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "CALCULO NUMERICO",
+        "CODIGO": "DCC034",
+        "TURMA": "TD",
+        "SALA": "2009",
+        "DIA1": "3a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "5a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "CALCULO NUMERICO",
+        "CODIGO": "DCC034",
+        "TURMA": "TF",
+        "SALA": "AUD. 4 FIS",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO NUMERICO",
+        "CODIGO": "DCC034",
+        "TURMA": "TM",
+        "SALA": "AUD. 2",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO NUMERICO",
+        "CODIGO": "DCC034",
+        "TURMA": "TZ",
+        "SALA": "2006",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "PESQUISA OPERACIONAL",
+        "CODIGO": "DCC035",
+        "TURMA": "TB2",
+        "SALA": "2054",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "PROGRAMACAO ORIENTADA A OBJETOS",
+        "CODIGO": "DCC038",
+        "TURMA": "TN",
+        "SALA": "1024",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A ROBOTICA",
+        "CODIGO": "DCC041",
+        "TURMA": "TB",
+        "SALA": "1021",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "VISAO COMPUTACIONAL",
+        "CODIGO": "DCC043",
+        "TURMA": "TN",
+        "SALA": "2014",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
+        "CODIGO": "DCC044",
+        "TURMA": "TW",
+        "SALA": "2014",
+        "DIA1": "6a",
+        "HORARIO1": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "TSI: ALGORITMOS PARA BIOINFORMATICA I",
+        "CODIGO": "DCC049",
+        "TURMA": "T/T",
+        "SALA": "2016",
+        "DIA1": "3a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "5a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "TSI: ANALISE E OTIMIZACAO DE CODIGO.",
+        "CODIGO": "DCC049",
+        "TURMA": "TA",
+        "SALA": "2015",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TSI: APRENDIZADO DE MAQUINA.",
+        "CODIGO": "DCC049",
+        "TURMA": "TB2",
+        "SALA": "2013",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TSI: ARQUITETURA DE SOFTWARE.",
+        "CODIGO": "DCC049",
+        "TURMA": "TC",
+        "SALA": "2016",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TSI: BANCO DE DADOS AVANCADOS.",
+        "CODIGO": "DCC049",
+        "TURMA": "TD",
+        "SALA": "2016",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TSI: BANCOS DE DADOS GEOGRAFICOS.",
+        "CODIGO": "DCC049",
+        "TURMA": "TE",
+        "SALA": "2014",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TSI: FUNDAMENTOS ESTATISTICOS PARA CIENCIAS DOS DADOS",
+        "CODIGO": "DCC049",
+        "TURMA": "TG",
+        "SALA": "2009",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TSI: INTERNET DAS COISAS.",
+        "CODIGO": "DCC049",
+        "TURMA": "TH",
+        "SALA": "2015",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TSI: INTRODUCAO A COMPUTACAO VISUAL.",
+        "CODIGO": "DCC049",
+        "TURMA": "TI",
+        "SALA": "2014",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "TSI: MEDICAO E QUALIDADE DE SOFTWARE.",
+        "CODIGO": "DCC049",
+        "TURMA": "TJ",
+        "SALA": "2015",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TSI: NANOTECNOLOGIA COMPUTACIONAL.",
+        "CODIGO": "DCC049",
+        "TURMA": "TK",
+        "SALA": "2015",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TSI: PROGRAMACAO FUNCIONAL.",
+        "CODIGO": "DCC049",
+        "TURMA": "TL",
+        "SALA": "2011 - Lab. DCC",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TSI: SOLUCAO DE PROBLEMAS COMPUTACIONAIS.",
+        "CODIGO": "DCC049",
+        "TURMA": "TM",
+        "SALA": "1010 LAB DCC",
+        "DIA1": "6a",
+        "HORARIO1": "09:25 - 12:50"
+    },
+    {
+        "DISCIPLINA": "TSI: VERIFICACAO AUTOMATICA.",
+        "CODIGO": "DCC049",
+        "TURMA": "TN",
+        "SALA": "2016",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TSI: VISUALIZACAO DE DADOS",
+        "CODIGO": "DCC049",
+        "TURMA": "TO",
+        "SALA": "2013",
+        "DIA1": "2a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "4a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "TSI: PROTOCOLOS CRIPTOGRAFICOS.",
+        "CODIGO": "DCC049",
+        "TURMA": "TQ",
+        "SALA": "2008",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TSI: RECUPERACAO DE INFORMACAO - MAQUINAS DE BUSCA NA WEB.",
+        "CODIGO": "DCC049",
+        "TURMA": "TR",
+        "SALA": "2016",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TSI: VIRTUALIZACAO E COMPUTACAO EM NUVEM.",
+        "CODIGO": "DCC049",
+        "TURMA": "TS",
+        "SALA": "2014",
+        "DIA1": "2a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "4a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "TSI: DESENVOLVIMENTO DE JOGOS DIGITAIS.",
+        "CODIGO": "DCC049",
+        "TURMA": "TU",
+        "SALA": "2008",
+        "DIA1": "2a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "4a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "TSI: MODELAGEM DE PROCESSOS DE NEGOCIO.",
+        "CODIGO": "DCC049",
+        "TURMA": "TV",
+        "SALA": "2014",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TSI: INTERACAO HUMANO-COMPUTADOR",
+        "CODIGO": "DCC049",
+        "TURMA": "TW",
+        "SALA": "2014",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TSI: PROCESSAMENTO DIGITAL DE SOM E VIDEO.",
+        "CODIGO": "DCC049",
+        "TURMA": "TX",
+        "SALA": "2015",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TSI: TEORIA DOS GRAFOS.",
+        "CODIGO": "DCC049",
+        "TURMA": "TZ",
+        "SALA": "1022",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TSI: TEORIA DOS GRAFOS",
+        "CODIGO": "DCC049",
+        "TURMA": "TZ",
+        "SALA": "1022",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A CIENCIA DA COMPUTACAO",
+        "CODIGO": "DCC050",
+        "TURMA": "TA",
+        "SALA": "2013",
+        "DIA1": "6a",
+        "HORARIO1": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "PROGRAMACAO MODULAR",
+        "CODIGO": "DCC052",
+        "TURMA": "TB",
+        "SALA": "2013",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "PROGRAMACAO MODULAR",
+        "CODIGO": "DCC052",
+        "TURMA": "TZ",
+        "SALA": "2013",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "COMPILADORES I",
+        "CODIGO": "DCC053",
+        "TURMA": "TM",
+        "SALA": "2013",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "PROJETOS E CONCEITOS DE SISTEMAS PARALELOS E DISTRIBUIDOS",
+        "CODIGO": "DCC058",
+        "TURMA": "TN2",
+        "SALA": "2013",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "ENGENHARIA DE SOFTWARE II",
+        "CODIGO": "DCC072",
+        "TURMA": "TW",
+        "SALA": "2060",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "MATEMATICA DISCRETA",
+        "CODIGO": "DCC111",
+        "TURMA": "TA/TA1/T",
+        "SALA": "A21015",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "MATEMATICA DISCRETA",
+        "CODIGO": "DCC111",
+        "TURMA": "TZ/TZ1/",
+        "SALA": "AUD. 1",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO AOS SISTEMAS LOGICOS",
+        "CODIGO": "DCC114",
+        "TURMA": "TN2",
+        "SALA": "2008",
+        "DIA1": "2a",
+        "HORARIO1": "16:40 - 18:20",
+        "DIA2": "4a",
+        "HORARIO2": "16:40 - 18:20"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO AOS SISTEMAS LOGICOS",
+        "CODIGO": "DCC114",
+        "TURMA": "TZ",
+        "SALA": "1024",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DA TEORIA DA COMPUTACAO",
+        "CODIGO": "DCC129",
+        "TURMA": "TN",
+        "SALA": "1024",
+        "DIA1": "3a",
+        "HORARIO1": "16:40 - 18:20",
+        "DIA2": "5a",
+        "HORARIO2": "16:40 - 18:20"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DA TEORIA DA COMPUTACAO",
+        "CODIGO": "DCC129",
+        "TURMA": "TW",
+        "SALA": "2013",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ALGORITMOS PARA BIOINFORMATICA I",
+        "CODIGO": "DCC186",
+        "TURMA": "TD2",
+        "SALA": "2016",
+        "DIA1": "3a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "5a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "DESENVOLVIMENTO DE JOGOS DIGITAIS",
+        "CODIGO": "DCC192",
+        "TURMA": "TD2",
+        "SALA": "2008",
+        "DIA1": "2a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "4a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "INTERACAO HUMANO-COMPUTADOR",
+        "CODIGO": "DCC194",
+        "TURMA": "TZ",
+        "SALA": "2014",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "MODELAGEM DE PROCESSOS DE NEGOCIO",
+        "CODIGO": "DCC196",
+        "TURMA": "TW1",
+        "SALA": "2014",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "PROCESSAMENTO DIGITAL DE SOM E VIDEO",
+        "CODIGO": "DCC197",
+        "TURMA": "TZ",
+        "SALA": "2015",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "TEORIA DOS GRAFOS",
+        "CODIGO": "DCC199",
+        "TURMA": "TB2",
+        "SALA": "1022",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ENGENHARIA DE SOFTWARE",
+        "CODIGO": "DCC603",
+        "TURMA": "TA",
+        "SALA": "2014",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "ENGENHARIA DE SOFTWARE",
+        "CODIGO": "DCC603",
+        "TURMA": "TW",
+        "SALA": "2015",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "SISTEMAS OPERACIONAIS",
+        "CODIGO": "DCC605",
+        "TURMA": "TD",
+        "SALA": "2014",
+        "DIA1": "3a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "5a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "SISTEMAS OPERACIONAIS",
+        "CODIGO": "DCC605",
+        "TURMA": "TZ",
+        "SALA": "2010",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "COMPUTADORES E SOCIEDADE",
+        "CODIGO": "DCC606",
+        "TURMA": "TN",
+        "SALA": "2013",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "COMPUTADORES E SOCIEDADE",
+        "CODIGO": "DCC606",
+        "TURMA": "TW",
+        "SALA": "2016",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ADMINISTRACAO DA PRODUCAO",
+        "CODIGO": "CAD004",
+        "TURMA": "TTK",
+        "SALA": "1012",
+        "DIA1": "6a",
+        "HORARIO1": "17:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ADMINISTRACAO",
+        "CODIGO": "CAD011",
+        "TURMA": "TN",
+        "SALA": "2013",
+        "DIA1": "2a",
+        "HORARIO1": "16:40 - 18:20",
+        "DIA2": "4a",
+        "HORARIO2": "16:40 - 18:20"
+    },
+    {
+        "DISCIPLINA": "ADMINISTRACAO TGA",
+        "CODIGO": "CAD103",
+        "TURMA": "TA",
+        "SALA": "2007",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "ADMINISTRACAO TGA",
+        "CODIGO": "CAD103",
+        "TURMA": "TF",
+        "SALA": "1011",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ADMINISTRACAO DE CUSTOS",
+        "CODIGO": "CAD153",
+        "TURMA": "TTG",
+        "SALA": "1014",
+        "DIA1": "6a",
+        "HORARIO1": "17:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ADMINISTRACAO DE RECURSOS HUMANOS",
+        "CODIGO": "CAD163",
+        "TURMA": "TH",
+        "SALA": "1024",
+        "DIA1": "6a",
+        "HORARIO1": "17:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ADMINISTRACAO MERCADOLOGICA",
+        "CODIGO": "CAD164",
+        "TURMA": "TI",
+        "SALA": "1021",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ADMINISTRACAO FINANCEIRA",
+        "CODIGO": "CAD167",
+        "TURMA": "TJ",
+        "SALA": "2013",
+        "DIA1": "6a",
+        "HORARIO1": "17:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO FINANCEIRO E CUSTOS",
+        "CODIGO": "CIC001",
+        "TURMA": "TD1",
+        "SALA": "2010",
+        "DIA1": "2a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "4a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A CONTABILIDADE",
+        "CODIGO": "CIC010",
+        "TURMA": "TZ",
+        "SALA": "2057",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "CONTABILIDADE DE SEGUROS",
+        "CODIGO": "CIC029",
+        "TURMA": "TA",
+        "SALA": "2009",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "PALESTRAS DE FISICA",
+        "CODIGO": "COL001",
+        "TURMA": "TN",
+        "SALA": "AUD. 4",
+        "DIA1": "4a",
+        "HORARIO1": "17:00 - 17:50"
+    },
+    {
+        "DISCIPLINA": "TEORIA ECONOMICA",
+        "CODIGO": "ECN013",
+        "TURMA": "TB",
+        "SALA": "2056",
+        "DIA1": "4a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "6a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ECONOMIA A I",
+        "CODIGO": "ECN101",
+        "TURMA": "TC",
+        "SALA": "2008",
+        "DIA1": "6a",
+        "HORARIO1": "17:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A ECONOMIA",
+        "CODIGO": "ECN140",
+        "TURMA": "TA1",
+        "SALA": "1017",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "DESENHO TECNICO F",
+        "CODIGO": "EQM034",
+        "TURMA": "PPFE",
+        "SALA": "2031",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 22:35"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A MONOGRAFIA",
+        "CODIGO": "ICE001",
+        "TURMA": "TB",
+        "SALA": "2024 EST",
+        "DIA1": "4a",
+        "HORARIO1": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A MATEMATICA COMPUTACIONAL",
+        "CODIGO": "ICE106",
+        "TURMA": "TZ",
+        "SALA": "2007",
+        "DIA1": "6a",
+        "HORARIO1": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "ORGANIZACAO E TRATAMENTO DA INFORMACAO",
+        "CODIGO": "OTI071",
+        "TURMA": "TW",
+        "SALA": "1022",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "TOPICOS EM DEMOGRAFIA: ASPECTOS FINANCEIROS E MATEMATICOS APLICADOS AS CIENCIAS ATUARIAIS",
+        "CODIGO": "POP004",
+        "TURMA": "TB",
+        "SALA": "2031",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TOPICOS EM DEMOGRAFIA: METODOS DEMOGRAFICOS APLICADOS AS CIENCIAS ATUARIAIS",
+        "CODIGO": "POP004",
+        "TURMA": "TF",
+        "SALA": "2030",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "TABELAS SOBREVIVENCIA NAS CIENCIAS ATUARIAIS",
+        "CODIGO": "POP007",
+        "TURMA": "TB",
+        "SALA": "2030",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "FORCA DE TRABALHO, EMPREGO E PEA",
+        "CODIGO": "POP009",
+        "TURMA": "TPOP7",
+        "SALA": "2059",
+        "DIA1": "6a",
+        "HORARIO1": "07:30 - 11:05"
+    },
+    {
+        "DISCIPLINA": "USUARIOS DA INFORMATICA",
+        "CODIGO": "TGI004",
+        "TURMA": "TZ",
+        "SALA": "1025",
+        "DIA1": "6a",
+        "HORARIO1": "17:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL B",
+        "CODIGO": "QUI003",
+        "TURMA": "TA1",
+        "SALA": "1016",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL B",
+        "CODIGO": "QUI003",
+        "TURMA": "TA2",
+        "SALA": "1025",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL B",
+        "CODIGO": "QUI003",
+        "TURMA": "TB1",
+        "SALA": "1016",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL B",
+        "CODIGO": "QUI003",
+        "TURMA": "TB2",
+        "SALA": "1025",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL B",
+        "CODIGO": "QUI003",
+        "TURMA": "TE",
+        "SALA": "1023",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL B",
+        "CODIGO": "QUI003",
+        "TURMA": "TM1",
+        "SALA": "1020",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL B",
+        "CODIGO": "QUI003",
+        "TURMA": "TM2",
+        "SALA": "1025",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL B",
+        "CODIGO": "QUI003",
+        "TURMA": "TM3",
+        "SALA": "2006",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL B",
+        "CODIGO": "QUI003",
+        "TURMA": "TN1",
+        "SALA": "1020",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL B",
+        "CODIGO": "QUI003",
+        "TURMA": "TN2",
+        "SALA": "1025",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL B",
+        "CODIGO": "QUI003",
+        "TURMA": "TN3",
+        "SALA": "2006",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FISICO-QUIMICA G I",
+        "CODIGO": "QUI008",
+        "TURMA": "TA",
+        "SALA": "1024",
+        "DIA1": "3a",
+        "HORARIO1": "08:20 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "TQB - HETEROCICLICOS BIOATIVOS: FUNDAMENTOS E APLICACOES",
+        "CODIGO": "QUI014",
+        "TURMA": "TN",
+        "SALA": "1021",
+        "DIA1": "3a",
+        "HORARIO1": "15:25 - 17:05",
+        "DIA2": "5a",
+        "HORARIO2": "15:25 - 17:05"
+    },
+    {
+        "DISCIPLINA": "TQB - INTRODUCAO A PESQUISA EM ENSINO DE QUIMICA",
+        "CODIGO": "QUI014",
+        "TURMA": "TV",
+        "SALA": "1001 - QUI",
+        "DIA1": "2a",
+        "HORARIO1": "17:10 - 18:50",
+        "DIA2": "4a",
+        "HORARIO2": "17:10 - 18:50"
+    },
+    {
+        "DISCIPLINA": "TQB - ASPECTOS HISTORICOS E DA NATUREZA DA CIENCIA NO ENSINO DE QUIMICA",
+        "CODIGO": "QUI014",
+        "TURMA": "TZ",
+        "SALA": "2060",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A BIOQUIMICA",
+        "CODIGO": "QUI035",
+        "TURMA": "TF",
+        "SALA": "1018",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE QUIMICA ANALITICA",
+        "CODIGO": "QUI051",
+        "TURMA": "TB",
+        "SALA": "1017",
+        "DIA1": "6a",
+        "HORARIO1": "07:30 - 10:15"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE QUIMICA ANALITICA",
+        "CODIGO": "QUI051",
+        "TURMA": "TF",
+        "SALA": "126 - QUI",
+        "DIA1": "5a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "6a",
+        "HORARIO2": "19:00 - 19:50"
+    },
+    {
+        "DISCIPLINA": "ANALISE QUALITATIVA",
+        "CODIGO": "QUI053",
+        "TURMA": "PA",
+        "SALA": "2031",
+        "DIA1": "6a",
+        "HORARIO1": "07:30 - 10:10"
+    },
+    {
+        "DISCIPLINA": "ANALISE QUALITATIVA",
+        "CODIGO": "QUI053",
+        "TURMA": "PF",
+        "SALA": "2059",
+        "DIA1": "6a",
+        "HORARIO1": "19:00 - 21:45"
+    },
+    {
+        "DISCIPLINA": "ANALISE QUALITATIVA",
+        "CODIGO": "QUI053",
+        "TURMA": "PN",
+        "SALA": "1011",
+        "DIA1": "6a",
+        "HORARIO1": "16:10 - 18:40"
+    },
+    {
+        "DISCIPLINA": "ANALISE QUANTITATIVA",
+        "CODIGO": "QUI055",
+        "TURMA": "PA",
+        "SALA": "2030",
+        "DIA1": "6a",
+        "HORARIO1": "07:30 - 10:15"
+    },
+    {
+        "DISCIPLINA": "ANALISE QUANTITATIVA",
+        "CODIGO": "QUI055",
+        "TURMA": "PE",
+        "SALA": "1015",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 21:45"
+    },
+    {
+        "DISCIPLINA": "ANALISE QUANTITATIVA",
+        "CODIGO": "QUI055",
+        "TURMA": "PM",
+        "SALA": "1025",
+        "DIA1": "6a",
+        "HORARIO1": "13:00 - 15:45"
+    },
+    {
+        "DISCIPLINA": "ANALISE QUANTITATIVA",
+        "CODIGO": "QUI055",
+        "TURMA": "TA",
+        "SALA": "2072",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ANALISE QUANTITATIVA",
+        "CODIGO": "QUI055",
+        "TURMA": "TF",
+        "SALA": "2072",
+        "DIA1": "4a",
+        "HORARIO1": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA QUANTICA",
+        "CODIGO": "QUI057",
+        "TURMA": "TM",
+        "SALA": "126 - QUI",
+        "DIA1": "3a",
+        "HORARIO1": "13:50 - 15:45",
+        "DIA2": "5a",
+        "HORARIO2": "13:50 - 15:45"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA III",
+        "CODIGO": "QUI059",
+        "TURMA": "TB",
+        "SALA": "1014",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA III",
+        "CODIGO": "QUI059",
+        "TURMA": "TE",
+        "SALA": "126 - QUI",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "METODOS FISICOS DE ANALISE I",
+        "CODIGO": "QUI060",
+        "TURMA": "TA",
+        "SALA": "1022",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "HISTORIA DA QUIMICA A",
+        "CODIGO": "QUI062",
+        "TURMA": "TE",
+        "SALA": "1018",
+        "DIA1": "6a",
+        "HORARIO1": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "TQC - QUIMICA ORGANICA BIOLOGICA",
+        "CODIGO": "QUI084",
+        "TURMA": "TN",
+        "SALA": "2007",
+        "DIA1": "3a",
+        "HORARIO1": "15:45 - 17:25",
+        "DIA2": "5a",
+        "HORARIO2": "15:45 - 17:25"
+    },
+    {
+        "DISCIPLINA": "TQE - INTRODUCAO A CORROSAO",
+        "CODIGO": "QUI086",
+        "TURMA": "TM",
+        "SALA": "1016",
+        "DIA1": "3a",
+        "HORARIO1": "16:30 - 18:10",
+        "DIA2": "5a",
+        "HORARIO2": "16:30 - 18:10"
+    },
+    {
+        "DISCIPLINA": "TQH - QUIMICA FORENSE",
+        "CODIGO": "QUI089",
+        "TURMA": "TN",
+        "SALA": "1022",
+        "DIA1": "2a",
+        "HORARIO1": "13:50 - 16:20"
+    },
+    {
+        "DISCIPLINA": "TQJ - ANALISE DE COMBUSTIVEIS DERIVADOS DO PETROLEO",
+        "CODIGO": "QUI091",
+        "TURMA": "PM",
+        "SALA": "Lab. QUI",
+        "DIA1": "5a",
+        "HORARIO1": "13:50 - 15:45"
+    },
+    {
+        "DISCIPLINA": "TQJ - ESPECIACAO QUIMICA",
+        "CODIGO": "QUI091",
+        "TURMA": "PN",
+        "SALA": "2060",
+        "DIA1": "3a",
+        "HORARIO1": "13:30 - 15:10"
+    },
+    {
+        "DISCIPLINA": "TQJ - DETERMINACAO DE POLUENTES ORGANICOS",
+        "CODIGO": "QUI091",
+        "TURMA": "PO",
+        "SALA": "264 - QUI",
+        "DIA1": "2a",
+        "HORARIO1": "15:25 - 17:05"
+    },
+    {
+        "DISCIPLINA": "TQL - FISICO QUIMICA ORGANICA",
+        "CODIGO": "QUI093",
+        "TURMA": "TB",
+        "SALA": "2071",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TQL - PLANEJAMENTO DE CARREIRAS",
+        "CODIGO": "QUI093",
+        "TURMA": "TF",
+        "SALA": "2007",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "TQL - TERMODINAMICA ESTATISTICA",
+        "CODIGO": "QUI093",
+        "TURMA": "TM",
+        "SALA": "2071",
+        "DIA1": "5a",
+        "HORARIO1": "13:30 - 15:10"
+    },
+    {
+        "DISCIPLINA": "HISTORIA DA QUIMICA B",
+        "CODIGO": "QUI097",
+        "TURMA": "TF",
+        "SALA": "1016",
+        "DIA1": "5a",
+        "HORARIO1": "13:50 - 15:30"
+    },
+    {
+        "DISCIPLINA": "QUIMICA FUNDAMENTAL I",
+        "CODIGO": "QUI099",
+        "TURMA": "TM",
+        "SALA": "1022",
+        "DIA1": "3a",
+        "HORARIO1": "13:30 - 15:10",
+        "DIA2": "5a",
+        "HORARIO2": "13:10 - 14:50"
+    },
+    {
+        "DISCIPLINA": "QUIMICA FUNDAMENTAL II",
+        "CODIGO": "QUI100",
+        "TURMA": "TM",
+        "SALA": "1021",
+        "DIA1": "2a",
+        "HORARIO1": "14:00 - 15:40",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "QUIMICA PARA CIENCIAS BIOLOGICAS",
+        "CODIGO": "QUI142",
+        "TURMA": "TA1",
+        "SALA": "2071",
+        "DIA1": "4a",
+        "HORARIO1": "08:00 - 09:40",
+        "DIA2": "6a",
+        "HORARIO2": "08:00 - 09:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA PARA CIENCIAS BIOLOGICAS",
+        "CODIGO": "QUI142",
+        "TURMA": "TA2",
+        "SALA": "2072",
+        "DIA1": "4a",
+        "HORARIO1": "08:00 - 09:40",
+        "DIA2": "6a",
+        "HORARIO2": "08:00 - 09:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA PARA CIENCIAS BIOLOGICAS",
+        "CODIGO": "QUI142",
+        "TURMA": "TE1",
+        "SALA": "1025",
+        "DIA1": "5a",
+        "HORARIO1": "19:00 - 22:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA PARA CIENCIAS BIOLOGICAS",
+        "CODIGO": "QUI142",
+        "TURMA": "TE2",
+        "SALA": "1026",
+        "DIA1": "5a",
+        "HORARIO1": "19:00 - 22:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL C",
+        "CODIGO": "QUI143",
+        "TURMA": "TB",
+        "SALA": "2032",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL C",
+        "CODIGO": "QUI143",
+        "TURMA": "TE",
+        "SALA": "1023",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "6a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "CICLO DE PALESTRAS A",
+        "CODIGO": "QUI145",
+        "TURMA": "TC",
+        "SALA": "AUD. I - QUI",
+        "DIA1": "5a",
+        "HORARIO1": "10:15 - 11:05"
+    },
+    {
+        "DISCIPLINA": "CICLO DE PALESTRAS A",
+        "CODIGO": "QUI145",
+        "TURMA": "TE",
+        "SALA": "AUD. I - QUI",
+        "DIA1": "5a",
+        "HORARIO1": "19:00 - 19:50"
+    },
+    {
+        "DISCIPLINA": "QUIMICA INORGANICA CI",
+        "CODIGO": "QUI147",
+        "TURMA": "TF",
+        "SALA": "1023",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA CI",
+        "CODIGO": "QUI150",
+        "TURMA": "TB",
+        "SALA": "124 - QUI",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA CI",
+        "CODIGO": "QUI150",
+        "TURMA": "TF",
+        "SALA": "126 - QUI",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "FISICO-QUIMICA CI",
+        "CODIGO": "QUI151",
+        "TURMA": "TB",
+        "SALA": "1020",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "FISICO-QUIMICA CI",
+        "CODIGO": "QUI151",
+        "TURMA": "TF",
+        "SALA": "2060",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA CII",
+        "CODIGO": "QUI189",
+        "TURMA": "TE",
+        "SALA": "1011",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "FISICO-QUIMICA CII",
+        "CODIGO": "QUI190",
+        "TURMA": "TE",
+        "SALA": "126 - QUI",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "OPERACOES UNITARIAS A",
+        "CODIGO": "QUI192",
+        "TURMA": "TF",
+        "SALA": "2030",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 19:50"
+    },
+    {
+        "DISCIPLINA": "BIOTECNOLOGIA AMBIENTAL",
+        "CODIGO": "QUI194",
+        "TURMA": "TE",
+        "SALA": "2059",
+        "DIA1": "4a",
+        "HORARIO1": "19:00 - 22:35"
+    },
+    {
+        "DISCIPLINA": "CINETICA QUIMICA",
+        "CODIGO": "QUI198",
+        "TURMA": "TB",
+        "SALA": "1022",
+        "DIA1": "5a",
+        "HORARIO1": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "CINETICA QUIMICA",
+        "CODIGO": "QUI198",
+        "TURMA": "TF",
+        "SALA": "2071",
+        "DIA1": "4a",
+        "HORARIO1": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A ESTRUTURA DA MATERIA",
+        "CODIGO": "QUI199",
+        "TURMA": "TM",
+        "SALA": "2072",
+        "DIA1": "3a",
+        "HORARIO1": "13:50 - 15:45",
+        "DIA2": "5a",
+        "HORARIO2": "13:50 - 15:45"
+    },
+    {
+        "DISCIPLINA": "INSTRUMENTACAO PARA O ENSINO DE QUIMICA CI",
+        "CODIGO": "QUI200",
+        "TURMA": "TE",
+        "SALA": "1001 - QUI",
+        "DIA1": "3a",
+        "HORARIO1": "15:45 - 17:00",
+        "DIA2": "5a",
+        "HORARIO2": "15:45 - 17:00"
+    },
+    {
+        "DISCIPLINA": "OPERACOES UNITARIAS B",
+        "CODIGO": "QUI201",
+        "TURMA": "TF",
+        "SALA": "1021",
+        "DIA1": "2a",
+        "HORARIO1": "15:45 - 18:15"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL F",
+        "CODIGO": "QUI203",
+        "TURMA": "TA",
+        "SALA": "1023",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL F",
+        "CODIGO": "QUI203",
+        "TURMA": "TB",
+        "SALA": "1023",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL F",
+        "CODIGO": "QUI203",
+        "TURMA": "TF1",
+        "SALA": "1022",
+        "DIA1": "4a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL F",
+        "CODIGO": "QUI203",
+        "TURMA": "TF2",
+        "SALA": "1023",
+        "DIA1": "4a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA INORGANICA F",
+        "CODIGO": "QUI205",
+        "TURMA": "TB",
+        "SALA": "2055",
+        "DIA1": "6a",
+        "HORARIO1": "09:25 - 11:55"
+    },
+    {
+        "DISCIPLINA": "QUIMICA INORGANICA F",
+        "CODIGO": "QUI205",
+        "TURMA": "TE",
+        "SALA": "1014",
+        "DIA1": "5a",
+        "HORARIO1": "19:00 - 19:50",
+        "DIA2": "6a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA I F",
+        "CODIGO": "QUI207",
+        "TURMA": "TE1",
+        "SALA": "1019",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA I F",
+        "CODIGO": "QUI207",
+        "TURMA": "TE2",
+        "SALA": "1018",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA I F",
+        "CODIGO": "QUI207",
+        "TURMA": "TO",
+        "SALA": "1021",
+        "DIA1": "4a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "6a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA I F",
+        "CODIGO": "QUI207",
+        "TURMA": "TP",
+        "SALA": "1021",
+        "DIA1": "4a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "6a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ANALITICA F",
+        "CODIGO": "QUI208",
+        "TURMA": "TE",
+        "SALA": "2009",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 19:50"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ANALITICA F",
+        "CODIGO": "QUI208",
+        "TURMA": "TO",
+        "SALA": "1019",
+        "DIA1": "4a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "6a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ANALITICA F",
+        "CODIGO": "QUI208",
+        "TURMA": "TP",
+        "SALA": "1019",
+        "DIA1": "4a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "6a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA II F",
+        "CODIGO": "QUI209",
+        "TURMA": "TE",
+        "SALA": "1017",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "6a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA II F",
+        "CODIGO": "QUI209",
+        "TURMA": "TO",
+        "SALA": "2300 - ENG. BLOCO 4",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA II F",
+        "CODIGO": "QUI209",
+        "TURMA": "TP",
+        "SALA": "2300 - ENG. BLOCO 4",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA AMBIENTAL C",
+        "CODIGO": "QUI215",
+        "TURMA": "TF",
+        "SALA": "1021",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA INORGANICA CII",
+        "CODIGO": "QUI216",
+        "TURMA": "TF",
+        "SALA": "124 - QUI",
+        "DIA1": "4a",
+        "HORARIO1": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "INSTRUMENTACAO PARA O ENSINO DE QUIMICA CII",
+        "CODIGO": "QUI217",
+        "TURMA": "TF",
+        "SALA": "2071",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "METODOS FISICOS DE ANALISE II",
+        "CODIGO": "QUI218",
+        "TURMA": "PA",
+        "SALA": "2057",
+        "DIA1": "5a",
+        "HORARIO1": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "METODOS FISICOS DE ANALISE II",
+        "CODIGO": "QUI218",
+        "TURMA": "PB",
+        "SALA": "2057",
+        "DIA1": "5a",
+        "HORARIO1": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "METODOS FISICOS DE ANALISE II",
+        "CODIGO": "QUI218",
+        "TURMA": "TB",
+        "SALA": "2057",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ESPECTROSCOPIA",
+        "CODIGO": "QUI219",
+        "TURMA": "TF",
+        "SALA": "124 - QUI",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:50 - 22:35"
+    },
+    {
+        "DISCIPLINA": "TRABALHO DE CONCLUSAO DE CURSO I LICENCIATURA",
+        "CODIGO": "QUI220",
+        "TURMA": "PE",
+        "SALA": "2072",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ANALISE INSTRUMENTAL A",
+        "CODIGO": "QUI221",
+        "TURMA": "PB",
+        "SALA": "264 - QUI",
+        "DIA1": "4a",
+        "HORARIO1": "09:25 - 11:55"
+    },
+    {
+        "DISCIPLINA": "ANALISE INSTRUMENTAL A",
+        "CODIGO": "QUI221",
+        "TURMA": "PF",
+        "SALA": "Lab. QUI",
+        "DIA1": "6a",
+        "HORARIO1": "19:50 - 22:35"
+    },
+    {
+        "DISCIPLINA": "ANALISE INSTRUMENTAL A",
+        "CODIGO": "QUI221",
+        "TURMA": "TC",
+        "SALA": "2072",
+        "DIA1": "2a",
+        "HORARIO1": "10:15 - 11:55"
+    },
+    {
+        "DISCIPLINA": "ANALISE INSTRUMENTAL A",
+        "CODIGO": "QUI221",
+        "TURMA": "TE",
+        "SALA": "122 - QUI",
+        "DIA1": "4a",
+        "HORARIO1": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ANALISE INSTRUMENTAL B",
+        "CODIGO": "QUI222",
+        "TURMA": "PF",
+        "SALA": "1014",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ANALISE INSTRUMENTAL B",
+        "CODIGO": "QUI222",
+        "TURMA": "PM",
+        "SALA": "1019",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "ANALISE INSTRUMENTAL B",
+        "CODIGO": "QUI222",
+        "TURMA": "TF",
+        "SALA": "1020",
+        "DIA1": "6a",
+        "HORARIO1": "19:00 - 19:50"
+    },
+    {
+        "DISCIPLINA": "ANALISE INSTRUMENTAL B",
+        "CODIGO": "QUI222",
+        "TURMA": "TN",
+        "SALA": "2071",
+        "DIA1": "2a",
+        "HORARIO1": "13:50 - 14:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA INORGANICA CIII",
+        "CODIGO": "QUI223",
+        "TURMA": "TN",
+        "SALA": "1017",
+        "DIA1": "3a",
+        "HORARIO1": "16:00 - 17:40",
+        "DIA2": "5a",
+        "HORARIO2": "16:00 - 17:40"
+    },
+    {
+        "DISCIPLINA": "TRABALHO DE CONCLUSAO DE CURSO I - BACHARELADO",
+        "CODIGO": "QUI225",
+        "TURMA": "PN",
+        "SALA": "2059",
+        "DIA1": "5a",
+        "HORARIO1": "19:50 - 21:30"
+    },
+    {
+        "DISCIPLINA": "QUIMICA DOS ALIMENTOS",
+        "CODIGO": "QUI227",
+        "TURMA": "TM",
+        "SALA": "2071",
+        "DIA1": "4a",
+        "HORARIO1": "13:00 - 16:35"
+    },
+    {
+        "DISCIPLINA": "CRIACAO DE EMPRESAS DE BASE TECNOLOGICA",
+        "CODIGO": "QUI229",
+        "TURMA": "TN",
+        "SALA": "2071",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "15:25 - 17:05"
+    },
+    {
+        "DISCIPLINA": "FILMES FINOS",
+        "CODIGO": "QUI233",
+        "TURMA": "TM",
+        "SALA": "264 - QUI",
+        "DIA1": "4a",
+        "HORARIO1": "13:30 - 15:10"
+    },
+    {
+        "DISCIPLINA": "QUIMICA BIOINORGANICA",
+        "CODIGO": "QUI241",
+        "TURMA": "TM",
+        "SALA": "2007",
+        "DIA1": "3a",
+        "HORARIO1": "13:30 - 15:10",
+        "DIA2": "5a",
+        "HORARIO2": "13:30 - 15:10"
+    },
+    {
+        "DISCIPLINA": "PREPARACAO E RECUPERACAO DE INSUMOS",
+        "CODIGO": "QUI244",
+        "TURMA": "PN",
+        "SALA": "Lab. QUI",
+        "DIA1": "4a",
+        "HORARIO1": "15:00 - 16:40",
+        "DIA2": "6a",
+        "HORARIO2": "15:00 - 16:40"
+    },
+    {
+        "DISCIPLINA": "NONOCIENCIA E NANOTECNOLOGIA",
+        "CODIGO": "QUI245",
+        "TURMA": "TF",
+        "SALA": "2006",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "6a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA AMBIENTAL",
+        "CODIGO": "QUI253",
+        "TURMA": "TM",
+        "SALA": "1022",
+        "DIA1": "4a",
+        "HORARIO1": "13:30 - 17:05"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE QUIMICA PARA ENGENHARIA",
+        "CODIGO": "QUI259",
+        "TURMA": "TE",
+        "SALA": "2071",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ANALITICA I",
+        "CODIGO": "QUI260",
+        "TURMA": "TA",
+        "SALA": "2060",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA I",
+        "CODIGO": "QUI261",
+        "TURMA": "TN",
+        "SALA": "1018",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "SEGURANCA E TECNICAS BASICAS DE LABORATORIO",
+        "CODIGO": "QUI266",
+        "TURMA": "P1",
+        "SALA": "2072",
+        "DIA1": "5a",
+        "HORARIO1": "19:50 - 22:35"
+    },
+    {
+        "DISCIPLINA": "FISICO-QUIMICA EXPERIMENTAL CI",
+        "CODIGO": "QUI267",
+        "TURMA": "PF",
+        "SALA": "1020",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A QUIMICA INDUSTRIAL",
+        "CODIGO": "QUI274",
+        "TURMA": "TN",
+        "SALA": "2072",
+        "DIA1": "2a",
+        "HORARIO1": "16:40 - 18:20",
+        "DIA2": "4a",
+        "HORARIO2": "16:40 - 18:20"
+    },
+    {
+        "DISCIPLINA": "QUIMICA E PROCESSAMENTO DE PETROLEO",
+        "CODIGO": "QUI277",
+        "TURMA": "TE",
+        "SALA": "2007",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "TECNOLOGIA DE GESTAO DA QUALIDADE E DO MEIO AMBIENTE",
+        "CODIGO": "QUI279",
+        "TURMA": "TF",
+        "SALA": "2030",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA INORGANICA I",
+        "CODIGO": "QUI601",
+        "TURMA": "TM",
+        "SALA": "2059",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA INORGANICA I",
+        "CODIGO": "QUI601",
+        "TURMA": "TN1",
+        "SALA": "1024",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA INORGANICA I",
+        "CODIGO": "QUI601",
+        "TURMA": "TN2",
+        "SALA": "1011",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FISICO-QUIMICA I",
+        "CODIGO": "QUI602",
+        "TURMA": "TA1",
+        "SALA": "1020",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "FISICO-QUIMICA I",
+        "CODIGO": "QUI602",
+        "TURMA": "TA2",
+        "SALA": "1021",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "FISICO-QUIMICA I",
+        "CODIGO": "QUI602",
+        "TURMA": "TA3",
+        "SALA": "2006",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA I",
+        "CODIGO": "QUI603",
+        "TURMA": "TM",
+        "SALA": "1017",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FISICO-QUIMICA II",
+        "CODIGO": "QUI604",
+        "TURMA": "TB1",
+        "SALA": "2060",
+        "DIA1": "4a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "6a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "FISICO-QUIMICA II",
+        "CODIGO": "QUI604",
+        "TURMA": "TB2",
+        "SALA": "2010",
+        "DIA1": "4a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "6a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ORGANICA II",
+        "CODIGO": "QUI605",
+        "TURMA": "TB",
+        "SALA": "2060",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ANALITICA I",
+        "CODIGO": "QUI606",
+        "TURMA": "TA1",
+        "SALA": "2010",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ANALITICA I",
+        "CODIGO": "QUI606",
+        "TURMA": "TA2",
+        "SALA": "2071",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ANALITICA I",
+        "CODIGO": "QUI606",
+        "TURMA": "TA3",
+        "SALA": "2072",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL",
+        "CODIGO": "QUI616",
+        "TURMA": "TB1",
+        "SALA": "2006",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "QUIMICA GERAL",
+        "CODIGO": "QUI616",
+        "TURMA": "TB2",
+        "SALA": "2010",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ELEMENTOS DE FISICO-QUIMICA",
+        "CODIGO": "QUI623",
+        "TURMA": "TA1",
+        "SALA": "2057",
+        "DIA1": "4a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "6a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "ELEMENTOS DE FISICO-QUIMICA",
+        "CODIGO": "QUI623",
+        "TURMA": "TA2",
+        "SALA": "2060",
+        "DIA1": "4a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "6a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "ELEMENTOS DE FISICO-QUIMICA",
+        "CODIGO": "QUI623",
+        "TURMA": "TE",
+        "SALA": "2006",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ANALITICA INSTRUMENTAL F",
+        "CODIGO": "QUI624",
+        "TURMA": "TE",
+        "SALA": "1025",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ANALITICA INSTRUMENTAL F",
+        "CODIGO": "QUI624",
+        "TURMA": "TO",
+        "SALA": "1012",
+        "DIA1": "4a",
+        "HORARIO1": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "QUIMICA ANALITICA INSTRUMENTAL F",
+        "CODIGO": "QUI624",
+        "TURMA": "TP",
+        "SALA": "1012",
+        "DIA1": "4a",
+        "HORARIO1": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "PACOTES ESTATISTICOS",
+        "CODIGO": "EST008",
+        "TURMA": "TTP",
+        "SALA": "2009",
+        "DIA1": "6a",
+        "HORARIO1": "07:30 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA MULTIVARIADA",
+        "CODIGO": "EST011",
+        "TURMA": "TTTA",
+        "SALA": "1011",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA PARA ENGENHARIA CIVIL",
+        "CODIGO": "EST027",
+        "TURMA": "TA1",
+        "SALA": "1015",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA PARA ENGENHARIA CIVIL",
+        "CODIGO": "EST027",
+        "TURMA": "TA2",
+        "SALA": "1019",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "PROBABILIDADE II",
+        "CODIGO": "EST028",
+        "TURMA": "TB.",
+        "SALA": "1017",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:55",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:55"
+    },
+    {
+        "DISCIPLINA": "PROBABILIDADE II",
+        "CODIGO": "EST028",
+        "TURMA": "TB1",
+        "SALA": "1024",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:55",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:55"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA E PROBABILIDADES",
+        "CODIGO": "EST031",
+        "TURMA": "TA1",
+        "SALA": "1026",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA E PROBABILIDADES",
+        "CODIGO": "EST031",
+        "TURMA": "TA2",
+        "SALA": "2054",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA E PROBABILIDADES",
+        "CODIGO": "EST031",
+        "TURMA": "TB1",
+        "SALA": "1011",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA E PROBABILIDADES",
+        "CODIGO": "EST031",
+        "TURMA": "TB2",
+        "SALA": "1017",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA E PROBABILIDADES",
+        "CODIGO": "EST031",
+        "TURMA": "TB3",
+        "SALA": "1024",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA E PROBABILIDADES",
+        "CODIGO": "EST031",
+        "TURMA": "TE",
+        "SALA": "2009",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA E PROBABILIDADES",
+        "CODIGO": "EST031",
+        "TURMA": "TM1",
+        "SALA": "1011",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA E PROBABILIDADES",
+        "CODIGO": "EST031",
+        "TURMA": "TM2",
+        "SALA": "1015",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA E PROBABILIDADES",
+        "CODIGO": "EST031",
+        "TURMA": "TW",
+        "SALA": "CAD1 - 312",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "PROBABILIDADE",
+        "CODIGO": "EST032",
+        "TURMA": "TA",
+        "SALA": "1018",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "PROBABILIDADE",
+        "CODIGO": "EST032",
+        "TURMA": "TE",
+        "SALA": "1024",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "PROBABILIDADE",
+        "CODIGO": "EST032",
+        "TURMA": "TM",
+        "SALA": "1018",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ANALISE DE REGRESSAO",
+        "CODIGO": "EST035",
+        "TURMA": "TTTB",
+        "SALA": "2059",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "PLANEJAMENTO DE EXPERIMENTOS",
+        "CODIGO": "EST036",
+        "TURMA": "TB",
+        "SALA": "2030",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "PROCESSOS ESTOCASTICOS",
+        "CODIGO": "EST039",
+        "TURMA": "TTAA",
+        "SALA": "2059",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "PROBABILIDADE E PROCESSOS ESTOCASTICOS",
+        "CODIGO": "EST045",
+        "TURMA": "TA",
+        "SALA": "1024",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO AO SEGURO E PREVIDENCIA",
+        "CODIGO": "EST046",
+        "TURMA": "TA",
+        "SALA": "2059",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "TECNICA ATUARIAIS II",
+        "CODIGO": "EST049",
+        "TURMA": "TB",
+        "SALA": "2007",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TARIFACAO DE SEGUROS",
+        "CODIGO": "EST052",
+        "TURMA": "TB",
+        "SALA": "2024 EST",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "6a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "MODELOS LINEARES GENERALIZADOS",
+        "CODIGO": "EST079",
+        "TURMA": "TA",
+        "SALA": "2024 EST",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA NAO PARAMETRICA",
+        "CODIGO": "EST080",
+        "TURMA": "B",
+        "SALA": "1015",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "BIOESTATISTICA BASICA F",
+        "CODIGO": "EST083",
+        "TURMA": "TB1",
+        "SALA": "1025",
+        "DIA1": "6a",
+        "HORARIO1": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "BIOESTATISTICA BASICA F",
+        "CODIGO": "EST083",
+        "TURMA": "TB2",
+        "SALA": "1026",
+        "DIA1": "6a",
+        "HORARIO1": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "BIOESTATISTICA BASICA F",
+        "CODIGO": "EST083",
+        "TURMA": "TE",
+        "SALA": "1021",
+        "DIA1": "5a",
+        "HORARIO1": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "BIOESTATISTICA BASICA F",
+        "CODIGO": "EST083",
+        "TURMA": "TF",
+        "SALA": "1015",
+        "DIA1": "6a",
+        "HORARIO1": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "BIOESTATISTICA",
+        "CODIGO": "EST141",
+        "TURMA": "TM",
+        "SALA": "1012",
+        "DIA1": "2a",
+        "HORARIO1": "14:00 - 17:35"
+    },
+    {
+        "DISCIPLINA": "TE - TOP.EST: ESTATISTICA ESPACIAL",
+        "CODIGO": "EST171",
+        "TURMA": "TTEA",
+        "SALA": "2031",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "TE: TOPICOS EM ESTATISTICA ANALISE DE DADOS LONGITUDINAIS",
+        "CODIGO": "EST171",
+        "TURMA": "TTEB",
+        "SALA": "2031",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TE: INFERENCIA ESTATISTICA COM ABORDAGEM BAYESIANA",
+        "CODIGO": "EST171",
+        "TURMA": "TTEC",
+        "SALA": "2024 EST",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "TE - CONTROLE DE QUALIDADE",
+        "CODIGO": "EST171",
+        "TURMA": "TTED",
+        "SALA": "1018",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A BIOESTATISTICA",
+        "CODIGO": "EST179",
+        "TURMA": "TA",
+        "SALA": "1012",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A BIOESTATISTICA",
+        "CODIGO": "EST179",
+        "TURMA": "TE",
+        "SALA": "1016",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A BIOESTATISTICA",
+        "CODIGO": "EST179",
+        "TURMA": "TM",
+        "SALA": "1015",
+        "DIA1": "2a",
+        "HORARIO1": "13:30 - 15:10",
+        "DIA2": "4a",
+        "HORARIO2": "13:30 - 15:10"
+    },
+    {
+        "DISCIPLINA": "DESCRICAO E APRESENTACAO DE DADOS",
+        "CODIGO": "EST183",
+        "TURMA": "TA",
+        "SALA": "1017",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "INICIACAO A ESTATISTICA",
+        "CODIGO": "EST184",
+        "TURMA": "TB",
+        "SALA": "1015",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "SEMINARIOS II",
+        "CODIGO": "EST189",
+        "TURMA": "PA",
+        "SALA": "2007",
+        "DIA1": "6a",
+        "HORARIO1": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "ESTATISTICA",
+        "CODIGO": "EST612",
+        "TURMA": "TB",
+        "SALA": "1011",
+        "DIA1": "2a",
+        "HORARIO1": "10:00 - 11:40"
+    },
+    {
+        "DISCIPLINA": "TOPICOS EM DEMOGRAFIA - R PARA CIENCIAS ATUARIAIS",
+        "CODIGO": "POP004",
+        "TURMA": "TA",
+        "SALA": "2031",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "EVOLUCAO DAS IDEIAS DA FISICA",
+        "CODIGO": "FIS003",
+        "TURMA": "TE1",
+        "SALA": "2055",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "EVOLUCAO DAS IDEIAS DA FISICA",
+        "CODIGO": "FIS003",
+        "TURMA": "TM1",
+        "SALA": "2059",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ASTRONOMIA GERAL",
+        "CODIGO": "FIS004",
+        "TURMA": "TE1",
+        "SALA": "2056",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "ASTROFISICA GALACTICA",
+        "CODIGO": "FIS007",
+        "TURMA": "TZ1",
+        "SALA": "2056",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "MECANICA FUNDAMENTAL",
+        "CODIGO": "FIS031",
+        "TURMA": "TA1",
+        "SALA": "1014",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "MECANICA FUNDAMENTAL",
+        "CODIGO": "FIS031",
+        "TURMA": "TA2",
+        "SALA": "1023",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "MECANICA FUNDAMENTAL",
+        "CODIGO": "FIS031",
+        "TURMA": "TB",
+        "SALA": "1014",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "MECANICA FUNDAMENTAL",
+        "CODIGO": "FIS031",
+        "TURMA": "TF",
+        "SALA": "2054",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "MECANICA I",
+        "CODIGO": "FIS034",
+        "TURMA": "TN1",
+        "SALA": "2056",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "MECANICA II",
+        "CODIGO": "FIS036",
+        "TURMA": "TN",
+        "SALA": "2059",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "ELETROMAGNETISMO I",
+        "CODIGO": "FIS037",
+        "TURMA": "TM",
+        "SALA": "2057",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ELETROMAGNETISMO II",
+        "CODIGO": "FIS039",
+        "TURMA": "TM",
+        "SALA": "2056",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "TFB - NOCOES FISICAS DE MICROSCOPIA ELETRONICA",
+        "CODIGO": "FIS044",
+        "TURMA": "TM",
+        "SALA": "2056",
+        "DIA1": "6a",
+        "HORARIO1": "13:50 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TFC - HIDRODINAMICA",
+        "CODIGO": "FIS045",
+        "TURMA": "TA",
+        "SALA": "2057",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TFC - CONCEITOS DE FISICA QUANTICA",
+        "CODIGO": "FIS045",
+        "TURMA": "TB",
+        "SALA": "2055",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "TFC - FISICA CONCEITUAL I",
+        "CODIGO": "FIS045",
+        "TURMA": "TF1",
+        "SALA": "2056",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "TFC - INTRODUCAO A FISICA DE DISPOSITIVOS SEMICONDUTORES",
+        "CODIGO": "FIS045",
+        "TURMA": "TM2",
+        "SALA": "2057",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TFC - FISICA CONCEITUAL II",
+        "CODIGO": "FIS045",
+        "TURMA": "TZ",
+        "SALA": "2056",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "FISICA ACUSTICA E BIOFISICA",
+        "CODIGO": "FIS063",
+        "TURMA": "TM",
+        "SALA": "2056",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "10:15 - 11:55"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TA1",
+        "SALA": "1020",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TA2",
+        "SALA": "1025",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TA3",
+        "SALA": "1026",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TB1",
+        "SALA": "1020",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TB2",
+        "SALA": "1025",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TB3",
+        "SALA": "1026",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TE1/TE2",
+        "SALA": "AUD. 4 FIS",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TF1/TF2",
+        "SALA": "AUD. 4 FIS",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TM1",
+        "SALA": "1011",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TM2",
+        "SALA": "1017",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TM3",
+        "SALA": "1018",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TN1",
+        "SALA": "1011",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TN2",
+        "SALA": "2054",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA",
+        "CODIGO": "FIS065",
+        "TURMA": "TZ",
+        "SALA": "1011",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE TERMODINAMICA",
+        "CODIGO": "FIS066",
+        "TURMA": "TA",
+        "SALA": "1014",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE TERMODINAMICA",
+        "CODIGO": "FIS066",
+        "TURMA": "TB",
+        "SALA": "1018",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE TERMODINAMICA",
+        "CODIGO": "FIS066",
+        "TURMA": "TF",
+        "SALA": "1020",
+        "DIA1": "5a",
+        "HORARIO1": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE TERMODINAMICA",
+        "CODIGO": "FIS066",
+        "TURMA": "TM",
+        "SALA": "1016",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE TERMODINAMICA",
+        "CODIGO": "FIS066",
+        "TURMA": "TN",
+        "SALA": "2057",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE TERMODINAMICA",
+        "CODIGO": "FIS066",
+        "TURMA": "TZ",
+        "SALA": "2059",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TA1",
+        "SALA": "2006",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TA2",
+        "SALA": "2009",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TA3",
+        "SALA": "2055",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TB1",
+        "SALA": "2006",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TB2",
+        "SALA": "2009",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TB3",
+        "SALA": "2055",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TE1",
+        "SALA": "2006",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TE2",
+        "SALA": "2009",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TE3",
+        "SALA": "2010",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TF1",
+        "SALA": "2006",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TF2",
+        "SALA": "2007",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TM1",
+        "SALA": "2006",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TM2",
+        "SALA": "2009",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TM3",
+        "SALA": "2010",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TM4",
+        "SALA": "1026",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TN1",
+        "SALA": "2006",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TN2",
+        "SALA": "2009",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TN3",
+        "SALA": "2010",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "CODIGO": "FIS069",
+        "TURMA": "TN4",
+        "SALA": "1026",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE FISICA MODERNA",
+        "CODIGO": "FIS071",
+        "TURMA": "TM",
+        "SALA": "1025",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A FISICA QUANTICA",
+        "CODIGO": "FIS073",
+        "TURMA": "TF",
+        "SALA": "2055",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A FISICA QUANTICA",
+        "CODIGO": "FIS073",
+        "TURMA": "TN",
+        "SALA": "2055",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "ESTRUTURA DA MATERIA I",
+        "CODIGO": "FIS074",
+        "TURMA": "TN",
+        "SALA": "2056",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "ESTRUTURA DA MATERIA II",
+        "CODIGO": "FIS076",
+        "TURMA": "TN",
+        "SALA": "2057",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE OSCILACOES,ONDAS E OPTICA",
+        "CODIGO": "FIS086",
+        "TURMA": "TF",
+        "SALA": "1016",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE OSCILACOES,ONDAS E OPTICA",
+        "CODIGO": "FIS086",
+        "TURMA": "TM",
+        "SALA": "AUD. 4 FIS",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE OSCILACOES,ONDAS E OPTICA",
+        "CODIGO": "FIS086",
+        "TURMA": "TN",
+        "SALA": "AUD. 4 FIS",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE OSCILACOES E ONDAS",
+        "CODIGO": "FIS087",
+        "TURMA": "TF",
+        "SALA": "1020",
+        "DIA1": "4a",
+        "HORARIO1": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE OSCILACOES E ONDAS",
+        "CODIGO": "FIS087",
+        "TURMA": "TP",
+        "SALA": "1014",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE FISICA QUANTICA",
+        "CODIGO": "FIS088",
+        "TURMA": "TN",
+        "SALA": "1014",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "RECURSOS DIDATICOS PARA O ENSINO FISICA A",
+        "CODIGO": "FIS090",
+        "TURMA": "PF",
+        "SALA": "3090 LAB FIS",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "RECURSOS DIDATICOS PARA O ENSINO FISICA A",
+        "CODIGO": "FIS090",
+        "TURMA": "PM",
+        "SALA": "3090 LAB FIS",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DA TEORIA DA RELATIVIDADE",
+        "CODIGO": "FIS091",
+        "TURMA": "TE",
+        "SALA": "2060",
+        "DIA1": "6a",
+        "HORARIO1": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DA TEORIA DA RELATIVIDADE",
+        "CODIGO": "FIS091",
+        "TURMA": "TZ",
+        "SALA": "2059",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE FISICA F",
+        "CODIGO": "FIS093",
+        "TURMA": "TA1/TA2",
+        "SALA": "AUD. 4 FIS",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "6a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE FISICA F",
+        "CODIGO": "FIS093",
+        "TURMA": "TE",
+        "SALA": "2010",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "6a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE FISICA F",
+        "CODIGO": "FIS093",
+        "TURMA": "TF",
+        "SALA": "1020",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "RECURSOS DIDATICOS PARA O ENSINO DE FISICA B",
+        "CODIGO": "FIS095",
+        "TURMA": "TE",
+        "SALA": "3090 LAB FIS",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "METODOS DA FISICA TEORICA A",
+        "CODIGO": "FIS118",
+        "TURMA": "TM",
+        "SALA": "2055",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FISICA QUANTICA I",
+        "CODIGO": "FIS120",
+        "TURMA": "TN",
+        "SALA": "2055",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TERMODINAMICA",
+        "CODIGO": "FIS126",
+        "TURMA": "TM",
+        "SALA": "2057",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "METODOLOGIA DO ENSINO DE FISICA",
+        "CODIGO": "FIS132",
+        "TURMA": "TZ",
+        "SALA": "2057",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "RECURSOS DIDATICOS PARA O ENSINO FISICA C",
+        "CODIGO": "FIS143",
+        "TURMA": "PN",
+        "SALA": "3090 LAB FIS",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE FISICA NUCLEAR E DE PARTICULAS",
+        "CODIGO": "FIS147",
+        "TURMA": "TN",
+        "SALA": "2059",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE MECANICA DOS SOLIDOS E FLUIDOS",
+        "CODIGO": "FIS148",
+        "TURMA": "TZ",
+        "SALA": "2055",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TA1",
+        "SALA": "1016",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TA2",
+        "SALA": "2054",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TA3",
+        "SALA": "1012",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TA4",
+        "SALA": "2010",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TB1",
+        "SALA": "1016",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TB2",
+        "SALA": "2054",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TB3",
+        "SALA": "1012",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TD",
+        "SALA": "CAD1. AUD.2A",
+        "DIA1": "2a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "4a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TE1",
+        "SALA": "1016",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TE2",
+        "SALA": "AUD. 2",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TF1",
+        "SALA": "1016",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TF2",
+        "SALA": "AUD. 2",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TM1",
+        "SALA": "CAD1 - 312",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TM2",
+        "SALA": "CAD1 - 313",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TM3",
+        "SALA": "2035",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TM4",
+        "SALA": "1014",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TN1",
+        "SALA": "1016",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TN2",
+        "SALA": "CAD1 - 312",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TN3",
+        "SALA": "CAD1 - 313",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TZ",
+        "SALA": "1023",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "CODIGO": "MAT001",
+        "TURMA": "TZ1 E TZ2",
+        "SALA": "CAD1. AUD.2A",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "CODIGO": "MAT002",
+        "TURMA": "TA1",
+        "SALA": "AUD. 2",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "CODIGO": "MAT002",
+        "TURMA": "TA2.",
+        "SALA": "1019",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "CODIGO": "MAT002",
+        "TURMA": "TB1",
+        "SALA": "AUD. 2",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "CODIGO": "MAT002",
+        "TURMA": "TB2",
+        "SALA": "1019",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "CODIGO": "MAT002",
+        "TURMA": "TE",
+        "SALA": "1012",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "CODIGO": "MAT002",
+        "TURMA": "TF",
+        "SALA": "1012",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "CODIGO": "MAT002",
+        "TURMA": "TM1",
+        "SALA": "AUD. 2",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "CODIGO": "MAT002",
+        "TURMA": "TM2.",
+        "SALA": "1023",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "CODIGO": "MAT002",
+        "TURMA": "TN1",
+        "SALA": "1023",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "CODIGO": "MAT002",
+        "TURMA": "TN2",
+        "SALA": "AUD. 2",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "CODIGO": "MAT002",
+        "TURMA": "TZ",
+        "SALA": "2060",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS A",
+        "CODIGO": "MAT015",
+        "TURMA": "TA",
+        "SALA": "AUD. 2",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS A",
+        "CODIGO": "MAT015",
+        "TURMA": "TB1",
+        "SALA": "1012",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS A",
+        "CODIGO": "MAT015",
+        "TURMA": "TB2",
+        "SALA": "1019",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS A",
+        "CODIGO": "MAT015",
+        "TURMA": "TE",
+        "SALA": "1012",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS A",
+        "CODIGO": "MAT015",
+        "TURMA": "TF.",
+        "SALA": "1019",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS A",
+        "CODIGO": "MAT015",
+        "TURMA": "TM",
+        "SALA": "1019",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS A",
+        "CODIGO": "MAT015",
+        "TURMA": "TN",
+        "SALA": "1012",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS B",
+        "CODIGO": "MAT016",
+        "TURMA": "TA",
+        "SALA": "AUD. 4 FIS",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS B",
+        "CODIGO": "MAT016",
+        "TURMA": "TB.",
+        "SALA": "AUD. 4 FIS",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS B",
+        "CODIGO": "MAT016",
+        "TURMA": "TF",
+        "SALA": "CAD1 - 310",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS B",
+        "CODIGO": "MAT016",
+        "TURMA": "TM.",
+        "SALA": "CAD1 - 309",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS B",
+        "CODIGO": "MAT016",
+        "TURMA": "TN",
+        "SALA": "2035",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "MATEMATICA A",
+        "CODIGO": "MAT020",
+        "TURMA": "TE",
+        "SALA": "CAD1 - 313",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "MATEMATICA A",
+        "CODIGO": "MAT020",
+        "TURMA": "TG",
+        "SALA": "2032",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "6a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "HISTORIA DA MATEMATICA",
+        "CODIGO": "MAT025",
+        "TURMA": "TM",
+        "SALA": "2010",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE ALGEBRA",
+        "CODIGO": "MAT028",
+        "TURMA": "TM",
+        "SALA": "2009",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "TMA: TECNOLOGIAS NO ENSINO DE MATEMATICA",
+        "CODIGO": "MAT033",
+        "TURMA": "TM",
+        "SALA": "2031",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "TMA: CAOS E FRACTAIS - UMA INTRODUCAO VIA SISTEMAS DINAMICOS DISCRETOS",
+        "CODIGO": "MAT033",
+        "TURMA": "TN",
+        "SALA": "2009",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "ALGEBRA A",
+        "CODIGO": "MAT034",
+        "TURMA": "TM",
+        "SALA": "CAD1 - 312",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ALGEBRA A",
+        "CODIGO": "MAT034",
+        "TURMA": "TZ",
+        "SALA": "2054",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DE GEOMETRIA PLANA E DESENHO GEOMETRICO",
+        "CODIGO": "MAT035",
+        "TURMA": "TN",
+        "SALA": "1018",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TA1",
+        "SALA": "CAD1 - 312",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TA2",
+        "SALA": "CAD1 - 313",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TA3",
+        "SALA": "AUD. 1",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TA4",
+        "SALA": "2032",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TB1",
+        "SALA": "1023",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TB2",
+        "SALA": "AUD. 2",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TB3",
+        "SALA": "2032",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TD",
+        "SALA": "CAD1. AUD.2A",
+        "DIA1": "3a",
+        "HORARIO1": "11:10 - 12:50",
+        "DIA2": "5a",
+        "HORARIO2": "11:10 - 12:50"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TE1",
+        "SALA": "2035",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TE2",
+        "SALA": "1024",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TF1",
+        "SALA": "AUD. 2",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TF2",
+        "SALA": "1012",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TG",
+        "SALA": "1018",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TM1",
+        "SALA": "CAD1 - 313",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TM2.",
+        "SALA": "1012",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TM3.",
+        "SALA": "1023",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TN1",
+        "SALA": "CAD1 - 312",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TN2",
+        "SALA": "CAD1 - 313",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TN3",
+        "SALA": "1019",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TZ",
+        "SALA": "1022",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TZ1",
+        "SALA": "CAD1. AUD.2A",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT038",
+        "TURMA": "TZ2",
+        "SALA": "1022",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "CODIGO": "MAT039",
+        "TURMA": "TA1.",
+        "SALA": "CAD1 - 312",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "CODIGO": "MAT039",
+        "TURMA": "TA2.",
+        "SALA": "2035",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "CODIGO": "MAT039",
+        "TURMA": "TB1.",
+        "SALA": "CAD1 - 312",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "CODIGO": "MAT039",
+        "TURMA": "TB2.",
+        "SALA": "2035",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "CODIGO": "MAT039",
+        "TURMA": "TE",
+        "SALA": "1014",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "CODIGO": "MAT039",
+        "TURMA": "TF",
+        "SALA": "1014",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "CODIGO": "MAT039",
+        "TURMA": "TM1",
+        "SALA": "CAD1 - 314",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "CODIGO": "MAT039",
+        "TURMA": "TM2",
+        "SALA": "CAD1 - 311",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "CODIGO": "MAT039",
+        "TURMA": "TN1",
+        "SALA": "2031",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "CODIGO": "MAT039",
+        "TURMA": "TN2",
+        "SALA": "CAD1 - 311",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "CODIGO": "MAT039",
+        "TURMA": "TZ",
+        "SALA": "1019",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS C",
+        "CODIGO": "MAT040",
+        "TURMA": "TA.",
+        "SALA": "2035",
+        "DIA1": "3a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "5a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS C",
+        "CODIGO": "MAT040",
+        "TURMA": "TB.",
+        "SALA": "2035",
+        "DIA1": "3a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "5a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS C",
+        "CODIGO": "MAT040",
+        "TURMA": "TE",
+        "SALA": "1017",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS C",
+        "CODIGO": "MAT040",
+        "TURMA": "TM",
+        "SALA": "1014",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "EQUACOES DIFERENCIAIS C",
+        "CODIGO": "MAT040",
+        "TURMA": "TN",
+        "SALA": "1015",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DE VARIAS VARIAVEIS",
+        "CODIGO": "MAT042",
+        "TURMA": "TA",
+        "SALA": "AUD. 1",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "CALCULO DE VARIAS VARIAVEIS",
+        "CODIGO": "MAT042",
+        "TURMA": "TE",
+        "SALA": "1015",
+        "DIA1": "2a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "4a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "CALCULO DE VARIAS VARIAVEIS",
+        "CODIGO": "MAT042",
+        "TURMA": "TF",
+        "SALA": "1015",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "RESOLUCAO DE PROBLEMAS",
+        "CODIGO": "MAT045",
+        "TURMA": "TE",
+        "SALA": "2032",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "RESOLUCAO DE PROBLEMAS",
+        "CODIGO": "MAT045",
+        "TURMA": "TM",
+        "SALA": "2054",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "INICIACAO A MATEMATICA",
+        "CODIGO": "MAT046",
+        "TURMA": "TF",
+        "SALA": "2032",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "INICIACAO A MATEMATICA",
+        "CODIGO": "MAT046",
+        "TURMA": "TN",
+        "SALA": "1023",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "ANALISE COMBINATORIA",
+        "CODIGO": "MAT047",
+        "TURMA": "TZ",
+        "SALA": "2032",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "ALGEBRA LINEAR I",
+        "CODIGO": "MAT048",
+        "TURMA": "TA",
+        "SALA": "2032",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "ALGEBRA LINEAR I",
+        "CODIGO": "MAT048",
+        "TURMA": "TZ",
+        "SALA": "2006",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ESPACIAL",
+        "CODIGO": "MAT050",
+        "TURMA": "TF",
+        "SALA": "2031",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ESPACIAL",
+        "CODIGO": "MAT050",
+        "TURMA": "TM",
+        "SALA": "2032",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ALGEBRA E FUNCAO NA EDUCACAO BASICA",
+        "CODIGO": "MAT051",
+        "TURMA": "TE",
+        "SALA": "2030",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "ALGEBRA E FUNCAO NA EDUCACAO BASICA",
+        "CODIGO": "MAT051",
+        "TURMA": "TN",
+        "SALA": "2030",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA NA EDUCACAO BASICA",
+        "CODIGO": "MAT052",
+        "TURMA": "TZ",
+        "SALA": "2009",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT105",
+        "TURMA": "TF",
+        "SALA": "2032",
+        "DIA1": "2a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "4a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT105",
+        "TURMA": "TM",
+        "SALA": "2032",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "CODIGO": "MAT105",
+        "TURMA": "TN",
+        "SALA": "2032",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "VARIAVEL COMPLEXA",
+        "CODIGO": "MAT118",
+        "TURMA": "TF",
+        "SALA": "2010",
+        "DIA1": "3a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "5a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "VARIAVEL COMPLEXA",
+        "CODIGO": "MAT118",
+        "TURMA": "TZ",
+        "SALA": "2010",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "MATEMATICA",
+        "CODIGO": "MAT130",
+        "TURMA": "TA1 / TA2",
+        "SALA": "CAD1 - 313",
+        "DIA1": "2a",
+        "HORARIO1": "07:30 - 09:10",
+        "DIA2": "4a",
+        "HORARIO2": "07:30 - 09:10"
+    },
+    {
+        "DISCIPLINA": "MATEMATICA",
+        "CODIGO": "MAT130",
+        "TURMA": "TB1 / TB2",
+        "SALA": "CAD1 - 313",
+        "DIA1": "2a",
+        "HORARIO1": "09:25 - 11:05",
+        "DIA2": "4a",
+        "HORARIO2": "09:25 - 11:05"
+    },
+    {
+        "DISCIPLINA": "MATEMATICA",
+        "CODIGO": "MAT130",
+        "TURMA": "TF",
+        "SALA": "CAD1 - 312",
+        "DIA1": "4a",
+        "HORARIO1": "20:55 - 22:35",
+        "DIA2": "6a",
+        "HORARIO2": "19:00 - 20:40"
+    },
+    {
+        "DISCIPLINA": "ALGEBRA LINEAR II",
+        "CODIGO": "MAT213",
+        "TURMA": "TM / TTM",
+        "SALA": "1020",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DA ANALISE",
+        "CODIGO": "MAT223",
+        "TURMA": "TE",
+        "SALA": "2031",
+        "DIA1": "3a",
+        "HORARIO1": "19:00 - 20:40",
+        "DIA2": "5a",
+        "HORARIO2": "20:55 - 22:35"
+    },
+    {
+        "DISCIPLINA": "FUNDAMENTOS DA ANALISE",
+        "CODIGO": "MAT223",
+        "TURMA": "TN",
+        "SALA": "2072",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "GRUPOS E CORPOS",
+        "CODIGO": "MAT232",
+        "TURMA": "TZ",
+        "SALA": "2033",
+        "DIA1": "3a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "5a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A TOPOLOGIA",
+        "CODIGO": "MAT234",
+        "TURMA": "TM",
+        "SALA": "2030",
+        "DIA1": "2a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "4a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "ALGEBRA LINEAR NUMERICA",
+        "CODIGO": "MAT235",
+        "TURMA": "TN",
+        "SALA": "2007",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "TEORIA DOS NUMEROS",
+        "CODIGO": "MAT237",
+        "TURMA": "TM",
+        "SALA": "2031",
+        "DIA1": "3a",
+        "HORARIO1": "13:00 - 14:40",
+        "DIA2": "5a",
+        "HORARIO2": "13:00 - 14:40"
+    },
+    {
+        "DISCIPLINA": "FORMAS DIFERENCIAIS EM VARIEDADES",
+        "CODIGO": "MAT241",
+        "TURMA": "TZ",
+        "SALA": "2030",
+        "DIA1": "2a",
+        "HORARIO1": "17:00 - 18:40",
+        "DIA2": "4a",
+        "HORARIO2": "17:00 - 18:40"
+    },
+    {
+        "DISCIPLINA": "ANALISE I",
+        "CODIGO": "MAT243",
+        "TURMA": "TN / TTN",
+        "SALA": "1020",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "INTRODUCAO A GEOMETRIA DIFERENCIAL",
+        "CODIGO": "MAT244",
+        "TURMA": "TN",
+        "SALA": "2031",
+        "DIA1": "3a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "5a",
+        "HORARIO2": "14:55 - 16:35"
+    },
+    {
+        "DISCIPLINA": "ANALISE II",
+        "CODIGO": "MAT245",
+        "TURMA": "TN",
+        "SALA": "2030",
+        "DIA1": "2a",
+        "HORARIO1": "14:55 - 16:35",
+        "DIA2": "4a",
+        "HORARIO2": "14:55 - 16:35"
+    }
+]
