@@ -25,7 +25,12 @@
 	label.radio{
 		background-color:#9C3;
 		padding: 5px 12px;
-
+		display: inline-block;
+	}
+	label.radio:hover{
+		background-color:#C33;
+		padding: 5px 12px;
+		display: inline-block;
 	}
 	input[type=radio]{
 		display:none;
