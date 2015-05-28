@@ -13,7 +13,9 @@ d3.json("../data/all.json", function(error, json) {
                             }
             );
       salas = salas.filter(function(itm,i,a){
-          return i==salas.indexOf(itm);
+          //console.log(itm);
+          if (!itm.includes("CAD") && !itm.includes("QUI") && !itm.includes("ENG") )
+            return i==salas.indexOf(itm);
       });
       salas.sort();
 
