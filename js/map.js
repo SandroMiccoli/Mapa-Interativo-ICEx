@@ -2,42 +2,29 @@ var data;
 
 d3.json("../data/all.json", function(error, json) {
   data = json;
+
+  $(function() {
+
+      // Generates unique array with all classroom numbers (salas)
+      var salas = [];
+      $.each(data,
+        function(index,item){
+                            salas.push(item.SALA);
+                            }
+            );
+      salas = salas.filter(function(itm,i,a){
+          return i==salas.indexOf(itm);
+      });
+      salas.sort();
+
+      $( "#search" ).autocomplete(
+      {
+        source: salas
+      });
+    });
+
 });
 
-$(function() {
-    var availableTags = [
-      "ActionScript",
-      "AppleScript",
-      "Asp",
-      "BASIC",
-      "C",
-      "C++",
-      "Clojure",
-      "COBOL",
-      "ColdFusion",
-      "Erlang",
-      "Fortran",
-      "Groovy",
-      "Haskell",
-      "Java",
-      "JavaScript",
-      "Lisp",
-      "Perl",
-      "PHP",
-      "Python",
-      "Ruby",
-      "Scala",
-      "Scheme"
-    ];
-    $( "#tags" ).autocomplete(
-    {
-      source: data,
-      select: function( event, ui ) {
-			$( "#tags" ).val( ui.item.DISCIPLINA );
-			return false;
-    	}
-    });
-  });
 
 function showFloor(floor){
 	var svg = d3.select("object#mapaIcex").node().getSVGDocument()

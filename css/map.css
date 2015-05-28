@@ -4,8 +4,15 @@
 		font-size: 40px;
 	}
 	h1.title{
-		margin-left: 10px;
+		margin: 10px 5px 0;
 	}
+	h3{
+		font-family: 'Helvetica';
+		font-weight: lighter;
+		font-size: 20px;		
+		opacity: 0.7;
+	}
+
 	body{
 		background: url("../texture/texture-noise.png");
 		/*background: #F5E1BD;*/
@@ -17,21 +24,45 @@
 	div.options{
 		display: inline-block;
 		float: left;
-		margin:0 10px 0 5px;
+		margin:20px 10px 0 5px;
 	}
-	input{
-		margin:10px 0 10px 15px;
+	input[type="text"] {
+		display: block;
+		margin: 0;
+		width: 300px;
+		font-family: sans-serif;
+		font-size: 18px;
+		appearance: none;
+		box-shadow: none;
+		border-radius: none;
 	}
+	input[type="text"]:focus {
+		outline: none;
+	}
+	input[type="text"] {
+		padding: 10px;
+		border: solid 1px #c9c9c9;
+		transition: border 0.3s;
+	}
+	input[type="text"]:focus,
+	input[type="text"].focus {
+		border: solid 1px #969696;
+	}
+	/*
+	input[type="text"]{
+		margin: 10px 0 -2px 1px;
+		height: 36px;
+		width: 280px;
+	}*/
 	label.radio{
 		background-color:#9C3;
 		opacity: 0.7;
-		padding: 5px 12px;
+		padding: 13px 33px;
 		display: inline-block;
 	}
 	label.radio:hover{
 		background-color:#9C3;
 		opacity: 0.9;
-		padding: 5px 12px;
 		display: inline-block;
 	}
 	input[type=radio]{
@@ -41,6 +72,7 @@
 	input[type=radio]:checked + label{
 		opacity: 1;
 		background-color:#9C3;
+		box-shadow: inset 0px 0px 1px #000;
 	}
 	.tooltip {
 		font-family: 'Helvetica';
@@ -83,4 +115,9 @@
 		height: 600px;
 		float: left;
 	}
-	
+	.ui-autocomplete-category {
+	    font-weight: bold;
+	    padding: .2em .4em;
+	    margin: .8em 0 .2em;
+	    line-height: 1.5;
+	}

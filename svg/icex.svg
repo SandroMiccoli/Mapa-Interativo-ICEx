@@ -8,7 +8,7 @@
 <![CDATA[
 	.st0{display:inline;fill:none;stroke:#FFFF00;stroke-width:0.469;stroke-miterlimit:10;}
 	.st1{display:inline;fill:none;stroke:#F91100;stroke-width:0.469;stroke-miterlimit:10;}
-	.st2{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{display:inline;opacity:1;fill:none;stroke:#000000;stroke-miterlimit:10;}
 	.st3{display:inline;fill:none;stroke:#0000FF;stroke-width:0.469;stroke-miterlimit:10;}
 	.st4{display:inline;fill:none;stroke:#80FF00;stroke-width:0.469;stroke-miterlimit:10;}
 	.st5{display:inline;opacity:0.4;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
@@ -183,7 +183,7 @@
 	<rect id="s3121" x="84.583" y="206.934" class="st10" width="14.563" height="17.346"/>
 	<rect id="s3120" x="66.725" y="201.654" class="st10" width="17.858" height="22.625"/>
 	<rect id="s3119" x="66.725" y="189.587" class="st10" width="17.858" height="12.067"/>
-	<polygon id="ContornoPv3" class="st6" points="29.92,190.404 29.92,121.404 64.249,121.404 64.249,89.867 29.92,89.867 
+	<polygon id="ContornoPv3" class="st2" points="29.92,190.404 29.92,121.404 64.249,121.404 64.249,89.867 29.92,89.867 
 		29.92,21.859 373.424,21.859 373.424,35.534 379.193,35.534 396.356,49.828 396.356,55.54 407.78,55.54 407.78,155.597 
 		393.313,155.597 393.313,161.393 379.501,178.557 373.481,178.557 373.481,190.178 304.796,190.178 304.796,224.309 
 		290.502,224.309 290.502,230.049 276.208,244.343 270.469,244.343 270.469,258.833 170.102,258.833 170.102,190.009 

@@ -13,11 +13,11 @@
 	<div id="map">
 	<h1 class="title">Mapa Interativo ICEx</h1>
 	<div class="options">  
-		<text><strong>Pesquisar (<i>disciplina, código, sala, ...</i>):</strong></text><br />
+		<h3>Pesquisar (<i>disciplina, código, sala, ...</i>)</h3>
 		<label for="tags"></label>
-  		<input id="tags">
+  		<input type="text" id="search" placeholder="Ex: DCC888, 2038, Cálculo..." />
   		<p />
-		<text><strong>Visualizar andar:</strong></text><br />
+		<h3>Visualizar andar</h3>
 	    <input id="andar1" type="radio" class="radio" name="floor" value="andar1" checked onclick="showFloor(1)" />  
 	    <label for="andar1" class="radio">1º Andar</label>
 	    <br />
@@ -34,7 +34,7 @@
 	    <label for="andar4" class="radio">4º Andar</label>
 
 	    <p />
-		<text><strong>Colorir:</strong></text><br />
+		<h3>Colorir:</h3>
 	    <input id="departamentos" type="radio" class="radio" name="color" value="departamentos" checked onclick="colorByDep()" />  
 	    <label for="departamentos" class="radio">Departamentos</label>
 	    <br />
