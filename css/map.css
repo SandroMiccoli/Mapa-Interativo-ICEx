@@ -26,6 +26,11 @@
 		float: left;
 		margin:20px 10px 0 5px;
 	}
+	div.floors{
+		display: flex;
+		float: left;
+		margin: -20px 17%;
+	}
 	input[type="text"] {
 		display: block;
 		margin: 0;
