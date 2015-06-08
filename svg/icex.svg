@@ -7,15 +7,15 @@
 <style type="text/css">
 <![CDATA[
 	/*amarelo*/
-	.icex{display:inline;fill:#FFFF00;stroke:#000;stroke-width:0.469;stroke-miterlimit:10;}
+	.icex{display:inline;fill:#FFFD70;stroke:#000;stroke-width:0.469;stroke-miterlimit:10;}
 	/*vermelho*/
-	.dcc {display:inline;fill:#F91100;stroke:#000;stroke-width:0.469;stroke-miterlimit:10;}
+	.dcc {display:inline;fill:#B24E40;stroke:#000;stroke-width:0.469;stroke-miterlimit:10;}
 	/*azul*/
-	.est {display:inline;fill:#0000FF;stroke:#000;stroke-width:0.469;stroke-miterlimit:10;}
+	.est {display:inline;fill:#3079CC;stroke:#000;stroke-width:0.469;stroke-miterlimit:10;}
 	/*verde*/
-	.mat {display:inline;fill:#80FF00;stroke:#000;stroke-width:0.469;stroke-miterlimit:10;}
+	.mat {display:inline;fill:#52FF68;stroke:#000;stroke-width:0.469;stroke-miterlimit:10;}
 	/*rosa*/
-	.fis {display:inline;fill:#FF00FF;stroke:#000;stroke-width:0.469;stroke-miterlimit:10;} 
+	.fis {display:inline;fill:#9E4AB2;stroke:#000;stroke-width:0.469;stroke-miterlimit:10;} 
 
 	.pav{display:none;}
 	.contorno{display:inline;opacity:1;fill:none;stroke:#000000;stroke-miterlimit:10;}
