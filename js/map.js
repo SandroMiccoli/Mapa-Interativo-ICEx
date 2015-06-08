@@ -5,10 +5,12 @@ salas.sort();
 
 d3.json("../data/all.json", function(error, json) {
   data = json;
+  
+
 
   $(function() {
       var cod = _.groupBy(data, function(d){return d.CODIGO + " - " + d.DISCIPLINA});
-
+      console.log(cod);
       // Generates unique array with all courses
       var courses = [];
       $.each(cod,
@@ -27,6 +29,7 @@ d3.json("../data/all.json", function(error, json) {
       // If string, searches for courses
       $('#search').bind('input', function() { 
           if (isInteger($(this).val())){
+            console.log("INTEGER!");
             $( "#search" ).autocomplete(
             {
               source: salas,
@@ -57,9 +60,23 @@ d3.json("../data/all.json", function(error, json) {
             }
           }
           else {
-           $( "#search" ).autocomplete(
-            {
-              source: courses
+               $( "#search" ).autocomplete(
+                {
+                  source: courses,
+                  response: function( event, ui ) {
+                  },
+                  select: function( event, ui ) {
+                    var result = cod[$(this).val()];
+                    //console.log(cod.get($(this).val()));
+                    //console.log(result);
+                    createCourseTable(result);
+                    var codeName = $(this).val().split(" - ");
+                    $("#courseCode").html(codeName[0]);
+                    $("#courseName").html(codeName[1]);
+                  },
+                  focus: function( event, ui ) {
+                    
+                  }
             }); 
           }
 
@@ -69,6 +86,128 @@ d3.json("../data/all.json", function(error, json) {
 
 });
 
+function createCourseTable(classes){
+  $('#courses').empty();
+  console.log(classes);
+  for (var i = 0; i < classes.length; i++){
+    var newCells = '<tr><td colspan="5" id="courseClass">Turma '+classes[i]["TURMA"]+'</td></tr>';
+    newCells += '<tr><td colspan="5" id="courseRoom">Sala '+classes[i]["SALA"]+'</td></tr>';
+    // Case for two different class time
+    if (classes[i]["HORARIO2"]==null){
+      newCells += '<tr>';
+      
+      if (classes[i]["DIA1"]=='2a')
+        newCells += '<td class="c1">S</td>';
+      else
+        newCells += '<td>S</td>';
+      
+      if (classes[i]["DIA1"]=='3a')
+        newCells += '<td class="c1">T</td>';
+      else
+        newCells += '<td>T</td>';
+      
+      if (classes[i]["DIA1"]=='4a')
+        newCells += '<td class="c1">Q</td>';   
+      else
+        newCells += '<td>Q</td>';
+      
+      if (classes[i]["DIA1"]=='5a')
+        newCells += '<td class="c1">Q</td>';
+      else
+        newCells += '<td>Q</td>';
+      
+      if (classes[i]["DIA1"]=='6a')
+        newCells += '<td class="c1">S</td>';
+      else
+        newCells += '<td>S</td>';
+
+
+      newCells += '</tr>';
+
+      newCells += '<td colspan="5" id="courseTime" class="c1">'+classes[i]["HORARIO1"]+'</td></tr>';
+    }
+    else if (classes[i]["HORARIO1"]!=classes[i]["HORARIO2"]){
+      newCells += '<tr>';
+      
+      if (classes[i]["DIA1"]=='2a')
+        newCells += '<td class="c1">S</td>';
+      else if (classes[i]["DIA2"]=='2a')
+        newCells += '<td class="c2">S</td>';
+      else
+        newCells += '<td>S</td>';
+      
+      if (classes[i]["DIA1"]=='3a')
+        newCells += '<td class="c1">T</td>';
+      else if (classes[i]["DIA2"]=='3a')
+        newCells += '<td class="c2">T</td>';
+      else
+        newCells += '<td>T</td>';
+      
+      if (classes[i]["DIA1"]=='4a')
+        newCells += '<td class="c1">Q</td>';
+      else if (classes[i]["DIA2"]=='4a')
+        newCells += '<td class="c2">Q</td>';        
+      else
+        newCells += '<td>Q</td>';
+      
+      if (classes[i]["DIA1"]=='5a')
+        newCells += '<td class="c1">Q</td>';
+      else if (classes[i]["DIA2"]=='5a')
+        newCells += '<td class="c2">Q</td>';
+      else
+        newCells += '<td>Q</td>';
+      
+      if (classes[i]["DIA1"]=='6a')
+        newCells += '<td class="c1">S</td>';
+      else if (classes[i]["DIA2"]=='6a')
+        newCells += '<td class="c2">S</td>';
+      else
+        newCells += '<td>S</td>';
+
+
+      newCells += '</tr>';
+
+      newCells += '<td colspan="5" id="courseTime" class="c1">'+classes[i]["HORARIO1"]+'</td></tr>';
+      newCells += '<td colspan="5" id="courseTime" class="c2">'+classes[i]["HORARIO2"]+'</td></tr>';
+    }
+    else if (classes[i]["HORARIO1"]==classes[i]["HORARIO2"]){
+      newCells += '<tr>';
+      
+      if (classes[i]["DIA1"]=='2a' || classes[i]["DIA2"]=='2a')
+        newCells += '<td class="c1">S</td>';
+      else
+        newCells += '<td>S</td>';
+      
+      if (classes[i]["DIA1"]=='3a' || classes[i]["DIA2"]=='3a')
+        newCells += '<td class="c1">T</td>';
+      else
+        newCells += '<td>T</td>';
+      
+      if (classes[i]["DIA1"]=='4a' || classes[i]["DIA2"]=='4a')
+        newCells += '<td class="c1">Q</td>';
+      else
+        newCells += '<td>Q</td>';
+      
+      if (classes[i]["DIA1"]=='5a' || classes[i]["DIA2"]=='5a')
+        newCells += '<td class="c1">Q</td>';
+      else
+        newCells += '<td>Q</td>';
+      
+      if (classes[i]["DIA1"]=='6a' || classes[i]["DIA2"]=='6a')
+        newCells += '<td class="c1">S</td>';
+      else
+        newCells += '<td>S</td>';
+
+
+      newCells += '</tr>';
+      newCells += '<td colspan="5" id="courseTime" class="c1">'+classes[i]["HORARIO1"]+'</td></tr>';
+    }
+    
+    
+    $('#courses').append(newCells);
+  }
+
+}
 
 function showRooms(rooms){
   var svg = d3.select("object#mapaIcex").node().getSVGDocument()

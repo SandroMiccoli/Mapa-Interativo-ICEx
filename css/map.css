@@ -25,6 +25,7 @@
 		display: inline-block;
 		float: left;
 		margin:20px 10px 0 5px;
+		width:30%;
 	}
 	div.floors{
 		display: flex;
@@ -125,4 +126,25 @@
 	    padding: .2em .4em;
 	    margin: .8em 0 .2em;
 	    line-height: 1.5;
+	}
+	table{
+		table-layout: auto;
+	}
+	table, th, td {
+   		border: 1px solid black;
+   		vertical-align: middle;
+   		text-align: center;
+	}
+	th#courseCode, th#courseName {
+
+		font-family: 'Helvetica';
+		font-weight: lighter;
+		font-size: 27px;
+	    word-wrap:break-word;
+	}
+	td.c1{
+		background-color: green;
+	}
+	td.c2{
+		background-color: blue;
 	}

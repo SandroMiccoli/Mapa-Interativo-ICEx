@@ -12,7 +12,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body>
-	<div id="map">
+<div id="map">
 	<h1 class="title">Mapa Interativo ICEx</h1>
 
 	<div class="options">  
@@ -21,15 +21,27 @@
   		<input type="text" id="search" placeholder="Ex: DCC888, 2038, Cálculo..." />
   		<p />
 	    <p />
-		<h3>Colorir:</h3>
+		<!--h3>Colorir:</h3>
 	    <input id="departamentos" type="radio" class="radio" name="color" value="departamentos" checked onclick="colorByDep()" />  
 	    <label for="departamentos" class="radio">Departamentos</label>
 	    <br />
 
 	    <input id="ocupacao" type="radio" class="radio" name="color" value="ocupacao" onclick="colorByOcupation()" />
 	    <label for="ocupacao" class="radio">Salas vazias/ocupadas</label>  
-	    <br />
-	</div> 
+	    <br /-->
+	    <div class="courseInfo">
+		<table id="coursesTitle" style="width:100%">
+			<tr><th colspan="5" id="courseCode">COD123</th></tr>
+			<tr><th colspan="5" id="courseName">DISCIPLINA YEAH</th></tr> 
+		</table>
+		<table id="courses" style="width:100%">
+			<tr></tr>
+		</table>
+		
+		
+	</div>
+	</div>
+	
 </div>
 <div class="mapContainer">
 		<div class="floors">
@@ -50,7 +62,7 @@
 	</div>
 	<object id="mapaIcex" data="../svg/icex.svg" type="image/svg+xml"></object>
 </div>
-<div id="source">Fonte: Dados obtidos em planilhas e docuentos públicos do Instituto de Ciências Exatas (ICEx) UFMG</div>
+<div id="source">Fonte: Dados obtidos em planilhas e documentos públicos do Instituto de Ciências Exatas (ICEx) da Universidade Federal de Minas Gerais (UFMG)</div>
 </div>
 </body>
 </html>
