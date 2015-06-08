@@ -129,22 +129,27 @@
 	}
 	table{
 		table-layout: auto;
+		width:100%;
 	}
-	table, th, td {
-   		border: 1px solid black;
+	table, th, td {   		
    		vertical-align: middle;
    		text-align: center;
+		font-family: 'Helvetica';
+		font-weight: lighter;
+		font-size: 19px;
 	}
 	th#courseCode, th#courseName {
-
 		font-family: 'Helvetica';
 		font-weight: lighter;
 		font-size: 27px;
 	    word-wrap:break-word;
 	}
 	td.c1{
-		background-color: green;
+		background-color: #3FBF4D;
 	}
 	td.c2{
-		background-color: blue;
+		background-color: #3079CC;
+	}
+	td#courseClass{
+		border-top: 5px #a4a4a4 solid;
 	}

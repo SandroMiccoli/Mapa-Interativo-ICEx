@@ -29,7 +29,7 @@ d3.json("../data/all.json", function(error, json) {
       // If string, searches for courses
       $('#search').bind('input', function() { 
           if (isInteger($(this).val())){
-            console.log("INTEGER!");
+            $('#courses').css("display","none");
             $( "#search" ).autocomplete(
             {
               source: salas,
@@ -70,9 +70,6 @@ d3.json("../data/all.json", function(error, json) {
                     //console.log(cod.get($(this).val()));
                     //console.log(result);
                     createCourseTable(result);
-                    var codeName = $(this).val().split(" - ");
-                    $("#courseCode").html(codeName[0]);
-                    $("#courseName").html(codeName[1]);
                   },
                   focus: function( event, ui ) {
                     
@@ -89,6 +86,9 @@ d3.json("../data/all.json", function(error, json) {
 function createCourseTable(classes){
   $('#courses').empty();
   console.log(classes);
+  var newTitle = '<tr><th colspan="5" id="courseCode">'+classes[0]["CODIGO"]+'</th></tr>';
+  newTitle += '<tr><th colspan="5" id="courseName">'+classes[0]["DISCIPLINA"]+'</th></tr>';
+  $('#courses').append(newTitle);
   for (var i = 0; i < classes.length; i++){
     var newCells = '<tr><td colspan="5" id="courseClass">Turma '+classes[i]["TURMA"]+'</td></tr>';
     newCells += '<tr><td colspan="5" id="courseRoom">Sala '+classes[i]["SALA"]+'</td></tr>';
@@ -205,6 +205,7 @@ function createCourseTable(classes){
     
     
     $('#courses').append(newCells);
+    $('#courses').css("display","inline");
   }
 
 }
