@@ -35,7 +35,7 @@
 	input[type="text"] {
 		display: block;
 		margin: 0;
-		width: 300px;
+		width: 380px;
 		font-family: sans-serif;
 		font-size: 18px;
 		appearance: none;
@@ -130,6 +130,8 @@
 	table{
 		table-layout: auto;
 		width:100%;
+		border-style: none;
+		border-collapse: collapse;
 	}
 	table, th, td {   		
    		vertical-align: middle;
@@ -144,6 +146,9 @@
 		font-size: 27px;
 	    word-wrap:break-word;
 	}
+	th#courseCode{
+		font-weight: bold;
+	}
 	td.c1{
 		background-color: #3FBF4D;
 	}
@@ -151,5 +156,13 @@
 		background-color: #3079CC;
 	}
 	td#courseClass{
-		border-top: 5px #a4a4a4 solid;
+		font-weight: normal;
+		border-top: 5px #a1a1a1 solid;
+	}
+	tbody.section:hover{
+		background-color: #a1a1a1;
+	}
+	div.courseInfo{
+	 	height:450px;
+  		overflow: auto;
 	}
